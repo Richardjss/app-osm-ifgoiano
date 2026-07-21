@@ -928,12 +928,23 @@ class _MapScreenState extends State<MapScreen> {
       _currentInstructionIndex = 0;
       _isAutoCentering = true;
       _lastDistanceToNextStep = null;
-      _spokenInstructions = {};
+      _spokenInstructions = {0};
     });
     
     if (_currentLocation != null) {
       _mapController.move(_currentLocation!, 19.0);
     }
+    
+    Future<void> initVoice() async {
+      await _flutterTts.stop();
+      await Future.delayed(const Duration(milliseconds: 500));
+      if (mounted && _mapState == MapState.navigating) {
+        if (_instructions.isNotEmpty) {
+          _speakInstruction(_getSpokenTextForInstruction(_instructions[0]));
+        }
+      }
+    }
+    initVoice();
     
     _positionStream = Geolocator.getPositionStream(
       locationSettings: const LocationSettings(
@@ -1266,15 +1277,15 @@ class _MapScreenState extends State<MapScreen> {
               options: MapOptions(
                 initialCenter: _campusCenter,
                 initialZoom: 17.2,
-                minZoom: 14.0,
-                maxZoom: 20.0,
+                minZoom: 16.0,
+                maxZoom: 21.0,
                 onPositionChanged: (position, hasGesture) {
                   if (_currentZoom != position.zoom) {
                     setState(() {
                       _currentZoom = position.zoom;
                     });
                   }
-                  if (hasGesture && _mapState == MapState.navigating) {
+                  if (hasGesture && _mapState == MapState.navigating && _isAutoCentering) {
                     setState(() {
                       _isAutoCentering = false;
                     });
@@ -1779,23 +1790,42 @@ _warningMarkers = [];
                 ),
               ),
               
-            // Bússola durante navegação
+            // Bússola e Voz durante navegação
             if (_mapState == MapState.navigating)
                Positioned(
                  top: MediaQuery.of(context).padding.top + 100,
                  right: 16,
-                 child: FloatingActionButton(
-                   heroTag: 'compassNavBtn',
-                   mini: true,
-                   backgroundColor: Colors.white,
-                   onPressed: () {
-                     setState(() {
-                       _mapController.rotate(0);
-                       _isAutoCentering = false; // Parar de seguir a rotação automática se ele resetar o norte
-                     });
-                   },
-                   child: const Icon(Icons.explore, color: Colors.black54),
-                 ),
+                 child: Column(
+                   children: [
+                     FloatingActionButton(
+                       heroTag: 'compassNavBtn',
+                       mini: true,
+                       backgroundColor: Colors.white,
+                       onPressed: () {
+                         setState(() {
+                           _mapController.rotate(0);
+                           _isAutoCentering = false; // Parar de seguir a rotação automática se ele resetar o norte
+                         });
+                       },
+                       child: const Icon(Icons.explore, color: Colors.black54),
+                     ),
+                     const SizedBox(height: 12),
+                     FloatingActionButton(
+                       heroTag: 'navVoiceBtn',
+                       mini: true,
+                       backgroundColor: Colors.white,
+                       onPressed: () {
+                         setState(() {
+                           _isVoiceMuted = !_isVoiceMuted;
+                         });
+                         if (_isVoiceMuted) {
+                           _flutterTts.stop();
+                         }
+                       },
+                       child: Icon(_isVoiceMuted ? Icons.volume_off : Icons.volume_up, color: _isVoiceMuted ? Colors.red : Colors.blue),
+                     ),
+                   ],
+                 )
                ),
                
             // Botão Recentralizar Câmera
@@ -1974,21 +2004,6 @@ _warningMarkers = [];
                       backgroundColor: Colors.white,
                       onPressed: _toggleSimulationSpeed,
                       child: Text("${_simulationSpeed}x", style: const TextStyle(fontWeight: FontWeight.bold, color: Colors.blue, fontSize: 12)),
-                    ),
-                    const SizedBox(height: 12),
-                    FloatingActionButton(
-                      heroTag: 'simVoiceBtn',
-                      mini: true,
-                      backgroundColor: Colors.white,
-                      onPressed: () {
-                        setState(() {
-                          _isVoiceMuted = !_isVoiceMuted;
-                        });
-                        if (_isVoiceMuted) {
-                          _flutterTts.stop();
-                        }
-                      },
-                      child: Icon(_isVoiceMuted ? Icons.volume_off : Icons.volume_up, color: _isVoiceMuted ? Colors.red : Colors.blue),
                     ),
                   ],
                 ),

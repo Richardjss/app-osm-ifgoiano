@@ -6,7 +6,7 @@ class RoutingService {
   // Endereço local do GraphHopper.
   // Para emuladores Android, '10.0.2.2' mapeia para o localhost do computador host.
   // Para celular físico conectado, usar o IP local da máquina na rede (ex: 192.168.0.x).
-  final String _baseUrl = 'http://192.168.0.30:8989/route';
+  final String _baseUrl = 'http://10.0.149.44:8989/route';
 
   Future<Map<String, dynamic>> getBestRoute(List<LatLng> starts, List<LatLng> ends, String profile, {LatLng? parking}) async {
     Map<String, dynamic>? bestResult;
