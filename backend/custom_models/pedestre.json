@@ -1,0 +1,6 @@
+{
+  "priority": [
+    // Penaliza vias compartilhadas com carros
+    { "if": "car_access == true", "multiply_by": 0.8 }
+  ]
+}

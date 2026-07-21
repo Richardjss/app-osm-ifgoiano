@@ -1,0 +1,12 @@
+.idea/
+.vscode/
+
+# Backend ignore
+backend/graphhopper-cache/
+backend/logs/
+backend/*.jar
+backend/jre17/
+backend/__pycache__/
+backend/.venv/
+backend/venv/
+backend/*.pbf

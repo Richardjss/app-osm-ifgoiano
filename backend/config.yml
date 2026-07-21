@@ -1,0 +1,32 @@
+graphhopper:
+  prepare.min_network_size: 0
+  datareader.file: campus_clean.osm
+  graph.location: graph-cache
+  import.osm.ignored_highways: construction,proposed,abandoned,raceway
+  
+  graph.encoded_values: car_access, car_average_speed, foot_access, foot_average_speed, foot_priority, hike_rating, surface, smoothness, road_class, road_environment, max_speed, track_type, road_access
+
+  profiles:
+    - name: carro
+      custom_model_files: [custom_models/base/car.json]
+      
+    - name: pedestre
+      custom_model_files: [custom_models/base/foot.json, custom_models/pedestre.json]
+      
+    - name: cadeirante
+      custom_model_files: [custom_models/base/foot.json, custom_models/cadeirante.json]
+      
+    - name: deficiente_visual
+      custom_model_files: [custom_models/base/foot.json, custom_models/deficiente_visual.json]
+
+server:
+  application_connectors:
+  - type: http
+    port: 8989
+    bind_host: 0.0.0.0
+  admin_connectors:
+  - type: http
+    port: 8990
+    bind_host: 0.0.0.0
+
+

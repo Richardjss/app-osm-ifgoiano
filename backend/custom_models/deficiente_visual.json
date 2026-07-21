@@ -1,0 +1,18 @@
+{
+  "priority": [
+    // Areia atrapalha muito o uso da bengala, dificultando o deslizamento
+    { "if": "surface == SAND", "multiply_by": 0.0 },
+    
+    // Terra e grama reduzem a percepção tátil da bengala e podem esconder buracos
+    { "if": "surface == DIRT || surface == GRASS", "multiply_by": 0.7 },
+    
+    // Pisos muito ruins/esburacados representam alto risco de tropeço
+    { "if": "smoothness == BAD", "multiply_by": 0.4 },
+
+    // Penalização média para terra/grama com intermediate
+    { "if": "smoothness == INTERMEDIATE", "multiply_by": 0.7 },
+    
+    // Penaliza vias compartilhadas com carros (MUITO perigoso para quem não enxerga)
+    { "if": "car_access == true", "multiply_by": 0.3 }
+  ]
+}

@@ -1,0 +1,9270 @@
+[
+  {
+    "name": "Almoxarifado",
+    "lat": -17.8039379,
+    "lon": -50.9054864,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8038377,
+        -50.9056432
+      ],
+      [
+        -17.8038125,
+        -50.9055118
+      ],
+      [
+        -17.8039379,
+        -50.9054864
+      ],
+      [
+        -17.8040608,
+        -50.9054615
+      ],
+      [
+        -17.8040866,
+        -50.9055874
+      ],
+      [
+        -17.8038377,
+        -50.9056432
+      ]
+    ],
+    "entrances": [
+      {
+        "lat": -17.8039379,
+        "lon": -50.9054864,
+        "type": "main",
+        "wheelchair": "yes"
+      }
+    ],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Ambev - Centro de Distribuição Rio Verde",
+    "lat": -17.790452583333334,
+    "lon": -50.9122228,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7903189,
+        -50.9124148
+      ],
+      [
+        -17.7904984,
+        -50.9127863
+      ],
+      [
+        -17.7910487,
+        -50.9125006
+      ],
+      [
+        -17.7905405,
+        -50.9114559
+      ],
+      [
+        -17.7899901,
+        -50.9117644
+      ],
+      [
+        -17.7903189,
+        -50.9124148
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Assaí Atacadista",
+    "lat": -17.8075446,
+    "lon": -50.9230715,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Atacadão",
+    "lat": -17.8057628,
+    "lon": -50.9218122,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Auditório (Centro de Cultura e Eventos Jatobá)",
+    "lat": -17.803221614285714,
+    "lon": -50.90417422857143,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8030305,
+        -50.9042649
+      ],
+      [
+        -17.8030892,
+        -50.904288
+      ],
+      [
+        -17.8030848,
+        -50.9043111
+      ],
+      [
+        -17.8031449,
+        -50.9043265
+      ],
+      [
+        -17.8031405,
+        -50.9043481
+      ],
+      [
+        -17.8031801,
+        -50.9043589
+      ],
+      [
+        -17.803186,
+        -50.9043419
+      ],
+      [
+        -17.8032256,
+        -50.9043558
+      ],
+      [
+        -17.8032388,
+        -50.9043358
+      ],
+      [
+        -17.8032843,
+        -50.9043342
+      ],
+      [
+        -17.8033165,
+        -50.9042988
+      ],
+      [
+        -17.8033635,
+        -50.9043111
+      ],
+      [
+        -17.8033943,
+        -50.9042526
+      ],
+      [
+        -17.8034544,
+        -50.9042741
+      ],
+      [
+        -17.8035028,
+        -50.9041417
+      ],
+      [
+        -17.8034456,
+        -50.9039707
+      ],
+      [
+        -17.8034676,
+        -50.9039768
+      ],
+      [
+        -17.8034867,
+        -50.9038936
+      ],
+      [
+        -17.8032447,
+        -50.9038258
+      ],
+      [
+        -17.8031992,
+        -50.9039029
+      ],
+      [
+        -17.8032241,
+        -50.9039029
+      ],
+      [
+        -17.8032139,
+        -50.903926
+      ],
+      [
+        -17.8031053,
+        -50.9039984
+      ],
+      [
+        -17.8030305,
+        -50.9041108
+      ],
+      [
+        -17.8030276,
+        -50.9041555
+      ],
+      [
+        -17.8030305,
+        -50.9042064
+      ],
+      [
+        -17.8030628,
+        -50.9042002
+      ],
+      [
+        -17.8030305,
+        -50.9042649
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Auditório Kléber Reis",
+    "lat": -17.7855525,
+    "lon": -50.9083642,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Auto Posto Bom Retiro",
+    "lat": -17.8015918,
+    "lon": -50.9188499,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Autopeças Piloto",
+    "lat": -17.7898588,
+    "lon": -50.9214046,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Avenida Adão Mota",
+    "lat": -17.805405366666665,
+    "lon": -50.91046802,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8028549,
+        -50.9076077
+      ],
+      [
+        -17.8029212,
+        -50.9077623
+      ],
+      [
+        -17.8033998,
+        -50.9082823
+      ],
+      [
+        -17.8038701,
+        -50.9088143
+      ],
+      [
+        -17.804339,
+        -50.9093197
+      ],
+      [
+        -17.8048102,
+        -50.9098392
+      ],
+      [
+        -17.805263,
+        -50.9103135
+      ],
+      [
+        -17.8054683,
+        -50.9105384
+      ],
+      [
+        -17.8060904,
+        -50.9112196
+      ],
+      [
+        -17.8062037,
+        -50.9113436
+      ],
+      [
+        -17.8063623,
+        -50.911514
+      ],
+      [
+        -17.8066758,
+        -50.911851
+      ],
+      [
+        -17.8071327,
+        -50.9123541
+      ],
+      [
+        -17.8076108,
+        -50.9128764
+      ],
+      [
+        -17.8080783,
+        -50.9133842
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Avenida Adão Mota",
+    "lat": -17.803795016666665,
+    "lon": -50.90853865,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8048838,
+        -50.909764
+      ],
+      [
+        -17.8044199,
+        -50.9092327
+      ],
+      [
+        -17.8039476,
+        -50.9087377
+      ],
+      [
+        -17.8034766,
+        -50.9082071
+      ],
+      [
+        -17.8030357,
+        -50.9076778
+      ],
+      [
+        -17.8030065,
+        -50.9076126
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Aventura Motors",
+    "lat": -17.80281282857143,
+    "lon": -50.92130732857142,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8029891,
+        -50.9212185
+      ],
+      [
+        -17.8026921,
+        -50.9210037
+      ],
+      [
+        -17.802369,
+        -50.921279
+      ],
+      [
+        -17.8028294,
+        -50.9216062
+      ],
+      [
+        -17.8029424,
+        -50.9214358
+      ],
+      [
+        -17.8028787,
+        -50.9213896
+      ],
+      [
+        -17.8029891,
+        -50.9212185
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "BR",
+    "lat": -17.7885754,
+    "lon": -50.9179715,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "BR",
+    "lat": -17.7888664,
+    "lon": -50.9209945,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Banco do Brasil",
+    "lat": -17.7892024,
+    "lon": -50.9192148,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Batalhão do Corpo de Bombeiros",
+    "lat": -17.7851744,
+    "lon": -50.91963558,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7856815,
+        -50.9196567
+      ],
+      [
+        -17.7853979,
+        -50.9190631
+      ],
+      [
+        -17.7844115,
+        -50.9196154
+      ],
+      [
+        -17.7846996,
+        -50.920186
+      ],
+      [
+        -17.7856815,
+        -50.9196567
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Baterias Luxfor Ltda",
+    "lat": -17.7803841,
+    "lon": -50.9220593,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Biblioteca do IF",
+    "lat": -17.802325149999998,
+    "lon": -50.904948239999996,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8022602,
+        -50.9052571
+      ],
+      [
+        -17.8025531,
+        -50.9050783
+      ],
+      [
+        -17.8025834,
+        -50.9050128
+      ],
+      [
+        -17.8024259,
+        -50.9047285
+      ],
+      [
+        -17.8023641,
+        -50.9047663
+      ],
+      [
+        -17.8023505,
+        -50.9047416
+      ],
+      [
+        -17.8021816,
+        -50.9048448
+      ],
+      [
+        -17.8021922,
+        -50.9048638
+      ],
+      [
+        -17.8020803,
+        -50.9049321
+      ],
+      [
+        -17.8022602,
+        -50.9052571
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Bloco Administrativo",
+    "lat": -17.8030446,
+    "lon": -50.9061535,
+    "type": "way",
+    "polygon": [
+      [
+        -17.80301,
+        -50.9062137
+      ],
+      [
+        -17.8030383,
+        -50.9063907
+      ],
+      [
+        -17.8031227,
+        -50.9063758
+      ],
+      [
+        -17.8031463,
+        -50.9065232
+      ],
+      [
+        -17.8031343,
+        -50.9065253
+      ],
+      [
+        -17.8030879,
+        -50.9065337
+      ],
+      [
+        -17.8030411,
+        -50.9065417
+      ],
+      [
+        -17.8030758,
+        -50.9067588
+      ],
+      [
+        -17.8029255,
+        -50.9067854
+      ],
+      [
+        -17.8028903,
+        -50.9065657
+      ],
+      [
+        -17.8028749,
+        -50.9065684
+      ],
+      [
+        -17.8028195,
+        -50.9062277
+      ],
+      [
+        -17.8027829,
+        -50.9059929
+      ],
+      [
+        -17.8030216,
+        -50.9059508
+      ],
+      [
+        -17.8030446,
+        -50.9061535
+      ],
+      [
+        -17.8030489,
+        -50.9061991
+      ],
+      [
+        -17.80301,
+        -50.9062137
+      ]
+    ],
+    "entrances": [
+      {
+        "lat": -17.8028195,
+        "lon": -50.9062277,
+        "type": "yes",
+        "wheelchair": "yes"
+      },
+      {
+        "lat": -17.8030446,
+        "lon": -50.9061535,
+        "type": "main",
+        "wheelchair": "yes"
+      }
+    ],
+    "rooms": [
+      {
+        "id": "13986685491",
+        "name": "Acessoria de Comunicação",
+        "lat": -17.8029119,
+        "lon": -50.9061764,
+        "tag": "office",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986685448",
+        "name": "Apoio Didático",
+        "lat": -17.8029481,
+        "lon": -50.9061512,
+        "tag": "office",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986685466",
+        "name": "Apoio à Extensão",
+        "lat": -17.8029594,
+        "lon": -50.9062304,
+        "tag": "office",
+        "short_name": null,
+        "alt_name": "Coordenação de Projetos e Cursos de Extensão",
+        "description": null
+      },
+      {
+        "id": "13986685471",
+        "name": "Auditório Direx",
+        "lat": -17.8029449,
+        "lon": -50.9063435,
+        "tag": "office",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986685488",
+        "name": "Banheiro (F)",
+        "lat": -17.8029203,
+        "lon": -50.9061963,
+        "tag": null,
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986685487",
+        "name": "Banheiro (M)",
+        "lat": -17.8029188,
+        "lon": -50.9061853,
+        "tag": null,
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986685453",
+        "name": "Cantina",
+        "lat": -17.8029117,
+        "lon": -50.9060258,
+        "tag": "kitchen",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986685454",
+        "name": "Coordenação-Geral de Recursos Humanos",
+        "lat": -17.8029012,
+        "lon": -50.9060376,
+        "tag": "office",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986685473",
+        "name": "Cozinha",
+        "lat": -17.8029767,
+        "lon": -50.9063787,
+        "tag": "kitchen",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986685455",
+        "name": "Diretoria de Ensino",
+        "lat": -17.8029213,
+        "lon": -50.9060224,
+        "tag": "office",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986685469",
+        "name": "Diretoria de Extensão",
+        "lat": -17.8029369,
+        "lon": -50.9063021,
+        "tag": "office",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986685456",
+        "name": "Escritório",
+        "lat": -17.8029299,
+        "lon": -50.9060316,
+        "tag": "office",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986685472",
+        "name": "Estúdio de Gravação",
+        "lat": -17.8029742,
+        "lon": -50.9063563,
+        "tag": "office",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986685452",
+        "name": "Gerência de Ensino",
+        "lat": -17.802939,
+        "lon": -50.9060845,
+        "tag": "office",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986685468",
+        "name": "Gerência de Extensão",
+        "lat": -17.802968,
+        "lon": -50.9062779,
+        "tag": "office",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986685451",
+        "name": "Núcleo de Atendimento às Pessoas com Necessidades Específicas",
+        "lat": -17.8029099,
+        "lon": -50.9060908,
+        "tag": "office",
+        "short_name": "NAPNE",
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986685465",
+        "name": "Núcleo de Estágios",
+        "lat": -17.8029311,
+        "lon": -50.9062363,
+        "tag": "office",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986685449",
+        "name": "Protocolo",
+        "lat": -17.8029178,
+        "lon": -50.9061598,
+        "tag": "office",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986685467",
+        "name": "Sala de Reunião",
+        "lat": -17.8029326,
+        "lon": -50.9062613,
+        "tag": "office",
+        "short_name": null,
+        "alt_name": "Arquivo",
+        "description": null
+      },
+      {
+        "id": "13986685450",
+        "name": "Secretatria Administrativa da DIREN",
+        "lat": -17.8029436,
+        "lon": -50.906119,
+        "tag": "office",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986685470",
+        "name": "Unidade de Cultura, Esporte e Lazer",
+        "lat": -17.8029728,
+        "lon": -50.9063195,
+        "tag": "office",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      }
+    ],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Bloco Multidisciplinar I",
+    "lat": -17.80573857,
+    "lon": -50.906578159999995,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8057498,
+        -50.906813
+      ],
+      [
+        -17.8057322,
+        -50.9066924
+      ],
+      [
+        -17.805709,
+        -50.9066959
+      ],
+      [
+        -17.805677,
+        -50.906507
+      ],
+      [
+        -17.8057079,
+        -50.9064722
+      ],
+      [
+        -17.8057006,
+        -50.9064207
+      ],
+      [
+        -17.8056872,
+        -50.9063005
+      ],
+      [
+        -17.8057966,
+        -50.9062771
+      ],
+      [
+        -17.8058756,
+        -50.9067898
+      ],
+      [
+        -17.8057498,
+        -50.906813
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Bloco Multidisciplinar II",
+    "lat": -17.806026355,
+    "lon": -50.905967905,
+    "type": "way",
+    "polygon": [
+      [
+        -17.805972,
+        -50.9063786
+      ],
+      [
+        -17.8061079,
+        -50.9063568
+      ],
+      [
+        -17.8060561,
+        -50.9059995
+      ],
+      [
+        -17.8061265,
+        -50.9059883
+      ],
+      [
+        -17.8061368,
+        -50.9060591
+      ],
+      [
+        -17.8062672,
+        -50.9060383
+      ],
+      [
+        -17.8062402,
+        -50.9058514
+      ],
+      [
+        -17.8061415,
+        -50.9058672
+      ],
+      [
+        -17.8061174,
+        -50.9059018
+      ],
+      [
+        -17.8061217,
+        -50.90593
+      ],
+      [
+        -17.8060456,
+        -50.9059426
+      ],
+      [
+        -17.8059804,
+        -50.9055084
+      ],
+      [
+        -17.8058865,
+        -50.9055239
+      ],
+      [
+        -17.8058376,
+        -50.905532
+      ],
+      [
+        -17.8058833,
+        -50.9058367
+      ],
+      [
+        -17.8059,
+        -50.9059483
+      ],
+      [
+        -17.8058785,
+        -50.9059519
+      ],
+      [
+        -17.8059128,
+        -50.9061848
+      ],
+      [
+        -17.8059431,
+        -50.9061799
+      ],
+      [
+        -17.805972,
+        -50.9063786
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Bloco Pedagógico I",
+    "lat": -17.8034776,
+    "lon": -50.9059777,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8035332,
+        -50.9063713
+      ],
+      [
+        -17.803598,
+        -50.9063619
+      ],
+      [
+        -17.8039079,
+        -50.9063169
+      ],
+      [
+        -17.8037808,
+        -50.9055017
+      ],
+      [
+        -17.8037122,
+        -50.9055157
+      ],
+      [
+        -17.8037022,
+        -50.9054929
+      ],
+      [
+        -17.8034956,
+        -50.9055376
+      ],
+      [
+        -17.8034178,
+        -50.9055544
+      ],
+      [
+        -17.8034776,
+        -50.9059777
+      ],
+      [
+        -17.8035332,
+        -50.9063713
+      ]
+    ],
+    "entrances": [
+      {
+        "lat": -17.803598,
+        "lon": -50.9063619,
+        "type": "yes",
+        "wheelchair": "yes"
+      },
+      {
+        "lat": -17.8034956,
+        "lon": -50.9055376,
+        "type": "yes",
+        "wheelchair": "yes"
+      },
+      {
+        "lat": -17.8034776,
+        "lon": -50.9059777,
+        "type": "main",
+        "wheelchair": "yes"
+      }
+    ],
+    "rooms": [
+      {
+        "id": "13986478198",
+        "name": "Banheiro (F)",
+        "lat": -17.8035762,
+        "lon": -50.9055943,
+        "tag": null,
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986495910",
+        "name": "Banheiro (F)",
+        "lat": -17.8037645,
+        "lon": -50.9060034,
+        "tag": null,
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986495911",
+        "name": "Banheiro (M)",
+        "lat": -17.8037636,
+        "lon": -50.9059931,
+        "tag": null,
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986478169",
+        "name": "Laboratório Topografia",
+        "lat": -17.8036602,
+        "lon": -50.9055651,
+        "tag": "laboratory",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986495904",
+        "name": "Laboratório de Informática 1",
+        "lat": -17.8037709,
+        "lon": -50.9060316,
+        "tag": "laboratory",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986495905",
+        "name": "Laboratório de Informática 2",
+        "lat": -17.8037775,
+        "lon": -50.9060825,
+        "tag": "laboratory",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986495906",
+        "name": "Laboratório de Informática 3",
+        "lat": -17.8037734,
+        "lon": -50.9061406,
+        "tag": "laboratory",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986478180",
+        "name": "Laboratório de Informática 5",
+        "lat": -17.8035475,
+        "lon": -50.9060569,
+        "tag": "laboratory",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986478189",
+        "name": "Sala",
+        "lat": -17.8035056,
+        "lon": -50.9056965,
+        "tag": null,
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986495914",
+        "name": "Sala",
+        "lat": -17.8037634,
+        "lon": -50.905973,
+        "tag": null,
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986495918",
+        "name": "Sala",
+        "lat": -17.8037439,
+        "lon": -50.9059513,
+        "tag": null,
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986495921",
+        "name": "Sala",
+        "lat": -17.8037365,
+        "lon": -50.9058797,
+        "tag": null,
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986478173",
+        "name": "Sala 01",
+        "lat": -17.8037932,
+        "lon": -50.906267,
+        "tag": "classroom",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986478172",
+        "name": "Sala 02",
+        "lat": -17.8037423,
+        "lon": -50.906276,
+        "tag": "classroom",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986478171",
+        "name": "Sala 03",
+        "lat": -17.803699,
+        "lon": -50.9062824,
+        "tag": "classroom",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986478170",
+        "name": "Sala 04",
+        "lat": -17.8036511,
+        "lon": -50.9062911,
+        "tag": "classroom",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986478160",
+        "name": "Sala 05",
+        "lat": -17.8035775,
+        "lon": -50.9063023,
+        "tag": "classroom",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986478178",
+        "name": "Sala 06",
+        "lat": -17.8035686,
+        "lon": -50.9062196,
+        "tag": "classroom",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986478179",
+        "name": "Sala 07",
+        "lat": -17.8035544,
+        "lon": -50.9061068,
+        "tag": "classroom",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986478181",
+        "name": "Sala 08",
+        "lat": -17.8035407,
+        "lon": -50.9060048,
+        "tag": "classroom",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986495920",
+        "name": "Sala 08-B",
+        "lat": -17.8037377,
+        "lon": -50.9058957,
+        "tag": "classroom",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986495919",
+        "name": "Sala 08-C",
+        "lat": -17.803742,
+        "lon": -50.9059365,
+        "tag": "classroom",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986478187",
+        "name": "Sala 09",
+        "lat": -17.8035218,
+        "lon": -50.9058492,
+        "tag": "classroom",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986478188",
+        "name": "Sala 10",
+        "lat": -17.8035082,
+        "lon": -50.9057192,
+        "tag": "classroom",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986478190",
+        "name": "Sala 10-A",
+        "lat": -17.8034987,
+        "lon": -50.9056472,
+        "tag": "classroom",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986478191",
+        "name": "Sala 10-B",
+        "lat": -17.8034944,
+        "lon": -50.905609,
+        "tag": "classroom",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986478199",
+        "name": "Sala 11",
+        "lat": -17.8036087,
+        "lon": -50.9055896,
+        "tag": "classroom",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986478200",
+        "name": "Sala 12",
+        "lat": -17.8036476,
+        "lon": -50.9055863,
+        "tag": "classroom",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986495928",
+        "name": "Secretaria dos Cursos Técnicos e Superiores",
+        "lat": -17.8037114,
+        "lon": -50.9056748,
+        "tag": "office",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      }
+    ],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Bloco Pedagógico II",
+    "lat": -17.8029071,
+    "lon": -50.9056164,
+    "type": "way",
+    "polygon": [
+      [
+        -17.802813,
+        -50.9056335
+      ],
+      [
+        -17.8029071,
+        -50.9056164
+      ],
+      [
+        -17.8030059,
+        -50.9056003
+      ],
+      [
+        -17.8029866,
+        -50.9054167
+      ],
+      [
+        -17.8028935,
+        -50.9054299
+      ],
+      [
+        -17.8028794,
+        -50.9053495
+      ],
+      [
+        -17.8028775,
+        -50.9053388
+      ],
+      [
+        -17.802974,
+        -50.9053242
+      ],
+      [
+        -17.8029621,
+        -50.9052206
+      ],
+      [
+        -17.802793,
+        -50.9052478
+      ],
+      [
+        -17.8027671,
+        -50.9052536
+      ],
+      [
+        -17.802813,
+        -50.9056335
+      ]
+    ],
+    "entrances": [
+      {
+        "lat": -17.8029071,
+        "lon": -50.9056164,
+        "type": "yes",
+        "wheelchair": "yes"
+      },
+      {
+        "lat": -17.8028794,
+        "lon": -50.9053495,
+        "type": "yes",
+        "wheelchair": "yes"
+      }
+    ],
+    "rooms": [
+      {
+        "id": "13988564254",
+        "name": "Laboratório de Inteligência Geográfica",
+        "lat": -17.8028408,
+        "lon": -50.9053328,
+        "tag": "laboratory",
+        "short_name": "LABIG",
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988564260",
+        "name": "Sala 14",
+        "lat": -17.8028728,
+        "lon": -50.905462,
+        "tag": "classroom",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988564261",
+        "name": "Sala 15",
+        "lat": -17.8028989,
+        "lon": -50.9054733,
+        "tag": "classroom",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988564262",
+        "name": "Sala 16",
+        "lat": -17.802877,
+        "lon": -50.9054992,
+        "tag": "classroom",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988564263",
+        "name": "Sala 17",
+        "lat": -17.8029049,
+        "lon": -50.9055112,
+        "tag": "classroom",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988564264",
+        "name": "Sala 18",
+        "lat": -17.8028834,
+        "lon": -50.9055344,
+        "tag": "classroom",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988564265",
+        "name": "Sala 19",
+        "lat": -17.8029097,
+        "lon": -50.9055528,
+        "tag": "classroom",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988564266",
+        "name": "Sala 20",
+        "lat": -17.8028899,
+        "lon": -50.9055788,
+        "tag": "classroom",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988564267",
+        "name": "Sala 21",
+        "lat": -17.8029144,
+        "lon": -50.9055918,
+        "tag": "classroom",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      }
+    ],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Bloco Pedagógico III",
+    "lat": -17.8053194,
+    "lon": -50.9058732,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8052253,
+        -50.9058867
+      ],
+      [
+        -17.8053194,
+        -50.9058732
+      ],
+      [
+        -17.805401,
+        -50.9058615
+      ],
+      [
+        -17.805368,
+        -50.9056079
+      ],
+      [
+        -17.8053368,
+        -50.905368
+      ],
+      [
+        -17.8052489,
+        -50.9053807
+      ],
+      [
+        -17.805161,
+        -50.9053933
+      ],
+      [
+        -17.8051937,
+        -50.9056348
+      ],
+      [
+        -17.8052253,
+        -50.9058867
+      ]
+    ],
+    "entrances": [
+      {
+        "lat": -17.8053194,
+        "lon": -50.9058732,
+        "type": "yes",
+        "wheelchair": "limited"
+      },
+      {
+        "lat": -17.8052489,
+        "lon": -50.9053807,
+        "type": "yes",
+        "wheelchair": "limited"
+      }
+    ],
+    "rooms": [
+      {
+        "id": "13988663181",
+        "name": "Banheiro (F)",
+        "lat": -17.8053036,
+        "lon": -50.9058508,
+        "tag": null,
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988663182",
+        "name": "Banheiro (M)",
+        "lat": -17.8053288,
+        "lon": -50.9058472,
+        "tag": null,
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988663191",
+        "name": "Sala 22",
+        "lat": -17.8052458,
+        "lon": -50.9054479,
+        "tag": "classroom",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988663192",
+        "name": "Sala 23",
+        "lat": -17.8052741,
+        "lon": -50.9054434,
+        "tag": "classroom",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988663189",
+        "name": "Sala 24",
+        "lat": -17.8052539,
+        "lon": -50.9055052,
+        "tag": "classroom",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988663190",
+        "name": "Sala 25",
+        "lat": -17.8052817,
+        "lon": -50.9055006,
+        "tag": "classroom",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988663187",
+        "name": "Sala 26",
+        "lat": -17.8052618,
+        "lon": -50.90557,
+        "tag": "classroom",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988663188",
+        "name": "Sala 27",
+        "lat": -17.8052895,
+        "lon": -50.9055656,
+        "tag": "classroom",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988663175",
+        "name": "Sala 28",
+        "lat": -17.8052785,
+        "lon": -50.9056724,
+        "tag": "classroom",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988663176",
+        "name": "Sala 29",
+        "lat": -17.8053032,
+        "lon": -50.9056672,
+        "tag": "classroom",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988663177",
+        "name": "Sala 30",
+        "lat": -17.8052863,
+        "lon": -50.905727,
+        "tag": "classroom",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988663178",
+        "name": "Sala 31",
+        "lat": -17.805311,
+        "lon": -50.9057215,
+        "tag": "classroom",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988663179",
+        "name": "Sala 32",
+        "lat": -17.8052962,
+        "lon": -50.9057916,
+        "tag": "classroom",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988663180",
+        "name": "Sala 33",
+        "lat": -17.805321,
+        "lon": -50.9057864,
+        "tag": "classroom",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      }
+    ],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Bloco da Agroquímica",
+    "lat": -17.8068455,
+    "lon": -50.905154,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8067901,
+        -50.9056799
+      ],
+      [
+        -17.8067206,
+        -50.9051728
+      ],
+      [
+        -17.8068455,
+        -50.905154
+      ],
+      [
+        -17.806936,
+        -50.9051403
+      ],
+      [
+        -17.8070054,
+        -50.9056474
+      ],
+      [
+        -17.8067901,
+        -50.9056799
+      ]
+    ],
+    "entrances": [
+      {
+        "lat": -17.8068455,
+        "lon": -50.905154,
+        "type": "yes",
+        "wheelchair": "yes"
+      }
+    ],
+    "rooms": [
+      {
+        "id": "13988698762",
+        "name": "Banheiro",
+        "lat": -17.8068517,
+        "lon": -50.9054058,
+        "tag": null,
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988698763",
+        "name": "Banheiro",
+        "lat": -17.8068481,
+        "lon": -50.9053748,
+        "tag": null,
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988698765",
+        "name": "Centro Multi-usuário de Análises",
+        "lat": -17.8068992,
+        "lon": -50.9054853,
+        "tag": "laboratory",
+        "short_name": "CEMA",
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988698766",
+        "name": "Copa",
+        "lat": -17.8068587,
+        "lon": -50.9055225,
+        "tag": "kitchen",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988698768",
+        "name": "Laboratório de Biomoléculas e Bioensaios",
+        "lat": -17.8069017,
+        "lon": -50.9055306,
+        "tag": "laboratory",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988698759",
+        "name": "Laboratório de Fertilizantes Organominerais e Fitoquímica",
+        "lat": -17.8068706,
+        "lon": -50.90525,
+        "tag": "laboratory",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988698767",
+        "name": "Laboratório de Materiais e Nanomateriais Aplicados",
+        "lat": -17.8068605,
+        "lon": -50.9055463,
+        "tag": "laboratory",
+        "short_name": "LaMNA",
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988698758",
+        "name": "Laboratório de Química Tecnológica",
+        "lat": -17.8068425,
+        "lon": -50.9052551,
+        "tag": "laboratory",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988698761",
+        "name": "Laboratório de Química de Produtos Naturais",
+        "lat": -17.8068795,
+        "lon": -50.9053188,
+        "tag": "laboratory",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988698760",
+        "name": "Quimera",
+        "lat": -17.8068454,
+        "lon": -50.905324,
+        "tag": "laboratory",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988698764",
+        "name": "Sala 47 - Agroquímica",
+        "lat": -17.8068532,
+        "lon": -50.9054602,
+        "tag": "laboratory",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      }
+    ],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Bloco da Computação",
+    "lat": -17.8041512,
+    "lon": -50.9060949,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8040663,
+        -50.9061101
+      ],
+      [
+        -17.8041512,
+        -50.9060949
+      ],
+      [
+        -17.8042218,
+        -50.9060823
+      ],
+      [
+        -17.8041778,
+        -50.9057773
+      ],
+      [
+        -17.8040223,
+        -50.905802
+      ],
+      [
+        -17.8040663,
+        -50.9061101
+      ]
+    ],
+    "entrances": [
+      {
+        "lat": -17.8041512,
+        "lon": -50.9060949,
+        "type": "main",
+        "wheelchair": "yes"
+      }
+    ],
+    "rooms": [
+      {
+        "id": "13984701374",
+        "name": "Banheiro (F)",
+        "lat": -17.8041203,
+        "lon": -50.9060078,
+        "tag": null,
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13984701386",
+        "name": "Banheiro (F)",
+        "lat": -17.8041215,
+        "lon": -50.9060133,
+        "tag": null,
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13984701373",
+        "name": "Banheiro (M)",
+        "lat": -17.8041237,
+        "lon": -50.906032,
+        "tag": null,
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13984701385",
+        "name": "Banheiro (M)",
+        "lat": -17.8041228,
+        "lon": -50.9060238,
+        "tag": null,
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13984701387",
+        "name": "Copa",
+        "lat": -17.804136,
+        "lon": -50.905979,
+        "tag": "kitchen",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13984701388",
+        "name": "Laboratório",
+        "lat": -17.8041158,
+        "lon": -50.9059626,
+        "tag": "laboratory",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13984701378",
+        "name": "Laboratório 04",
+        "lat": -17.8041276,
+        "lon": -50.9059094,
+        "tag": "laboratory",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13984701379",
+        "name": "Laboratório 05",
+        "lat": -17.804097,
+        "lon": -50.9058601,
+        "tag": "laboratory",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13984701380",
+        "name": "Laboratório 06",
+        "lat": -17.8041181,
+        "lon": -50.9058555,
+        "tag": "laboratory",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13985897021",
+        "name": "Laboratório de Inteligência Computacional",
+        "lat": -17.8040973,
+        "lon": -50.9058677,
+        "tag": "laboratory",
+        "short_name": "LIAA",
+        "alt_name": "Inteligência Artificial Aplicada",
+        "description": null
+      },
+      {
+        "id": "13984701376",
+        "name": "Laboratório de Práticas de Hardware",
+        "lat": -17.8041392,
+        "lon": -50.9059683,
+        "tag": "laboratory",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13984701390",
+        "name": "Laboratório de Redes e Sistemas Distribuídos",
+        "lat": -17.8041082,
+        "lon": -50.9059215,
+        "tag": "laboratory",
+        "short_name": null,
+        "alt_name": "Computação Visual",
+        "description": null
+      },
+      {
+        "id": "13985877671",
+        "name": "Sala",
+        "lat": -17.8041513,
+        "lon": -50.9060309,
+        "tag": null,
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13984701377",
+        "name": "Sala Teórica 01",
+        "lat": -17.8041072,
+        "lon": -50.9059141,
+        "tag": "laboratory",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13984701375",
+        "name": "Sala Teórica 02",
+        "lat": -17.8041176,
+        "lon": -50.905973,
+        "tag": "classroom",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13985897023",
+        "name": "Sala das Impressoras / Servidores",
+        "lat": -17.8041022,
+        "lon": -50.9058519,
+        "tag": "laboratory",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13984701389",
+        "name": "Sala de Professores 01",
+        "lat": -17.8041375,
+        "lon": -50.9059572,
+        "tag": "office",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13985897020",
+        "name": "Sala de Professores 02",
+        "lat": -17.804129,
+        "lon": -50.9059169,
+        "tag": "office",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13985897022",
+        "name": "Sala de Professores 03",
+        "lat": -17.8041192,
+        "lon": -50.905863,
+        "tag": "office",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      }
+    ],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Bloco da Zootecnia",
+    "lat": -17.8056193,
+    "lon": -50.905856,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8055611,
+        -50.9057549
+      ],
+      [
+        -17.805575,
+        -50.9058492
+      ],
+      [
+        -17.8056173,
+        -50.9058423
+      ],
+      [
+        -17.8056193,
+        -50.905856
+      ],
+      [
+        -17.8056224,
+        -50.9058768
+      ],
+      [
+        -17.8056892,
+        -50.9058659
+      ],
+      [
+        -17.8056107,
+        -50.9053338
+      ],
+      [
+        -17.8055631,
+        -50.9053415
+      ],
+      [
+        -17.8055077,
+        -50.9053505
+      ],
+      [
+        -17.8055013,
+        -50.9053812
+      ],
+      [
+        -17.8055124,
+        -50.9054583
+      ],
+      [
+        -17.8055254,
+        -50.9055316
+      ],
+      [
+        -17.8055157,
+        -50.9055422
+      ],
+      [
+        -17.8054937,
+        -50.9055662
+      ],
+      [
+        -17.8055224,
+        -50.9057612
+      ],
+      [
+        -17.8055611,
+        -50.9057549
+      ]
+    ],
+    "entrances": [
+      {
+        "lat": -17.8056193,
+        "lon": -50.905856,
+        "type": "yes",
+        "wheelchair": "yes"
+      },
+      {
+        "lat": -17.8055631,
+        "lon": -50.9053415,
+        "type": "yes",
+        "wheelchair": "no"
+      },
+      {
+        "lat": -17.8055157,
+        "lon": -50.9055422,
+        "type": "yes",
+        "wheelchair": "yes"
+      }
+    ],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Bloco de Ciências Biológicas",
+    "lat": -17.80749772,
+    "lon": -50.90525852,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8073924,
+        -50.9050922
+      ],
+      [
+        -17.8075884,
+        -50.9050519
+      ],
+      [
+        -17.8076576,
+        -50.905508
+      ],
+      [
+        -17.8074578,
+        -50.9055483
+      ],
+      [
+        -17.8073924,
+        -50.9050922
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Bloco de Engenharia I",
+    "lat": -17.8065164,
+    "lon": -50.9052039,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8064613,
+        -50.9057246
+      ],
+      [
+        -17.8063977,
+        -50.9052202
+      ],
+      [
+        -17.8065164,
+        -50.9052039
+      ],
+      [
+        -17.8066082,
+        -50.9051909
+      ],
+      [
+        -17.8066718,
+        -50.9056953
+      ],
+      [
+        -17.8064613,
+        -50.9057246
+      ]
+    ],
+    "entrances": [
+      {
+        "lat": -17.8065164,
+        "lon": -50.9052039,
+        "type": "yes",
+        "wheelchair": "yes"
+      }
+    ],
+    "rooms": [
+      {
+        "id": "13988676828",
+        "name": "Banheiro",
+        "lat": -17.8065214,
+        "lon": -50.9054236,
+        "tag": null,
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988676833",
+        "name": "Banheiro",
+        "lat": -17.8065189,
+        "lon": -50.9053958,
+        "tag": null,
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988676830",
+        "name": "Laboratório",
+        "lat": -17.8065345,
+        "lon": -50.9055117,
+        "tag": "laboratory",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988676831",
+        "name": "Laboratório de Automação, Simulação e Controle",
+        "lat": -17.8065384,
+        "lon": -50.9055654,
+        "tag": "laboratory",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988676832",
+        "name": "Laboratório de Energias Renováveis e Instalações Elétricas",
+        "lat": -17.8065794,
+        "lon": -50.9055589,
+        "tag": "laboratory",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988676829",
+        "name": "Laboratório de Fenômenos de Tranporte",
+        "lat": -17.80657,
+        "lon": -50.9055051,
+        "tag": "laboratory",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988676824",
+        "name": "Laboratório de Física Geral",
+        "lat": -17.8065025,
+        "lon": -50.9052702,
+        "tag": "laboratory",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988676827",
+        "name": "Laboratório de Projetos Arquitetônicos",
+        "lat": -17.8065509,
+        "lon": -50.9053223,
+        "tag": "laboratory",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988676826",
+        "name": "Laboratório de Saneamento e Meio Ambiente",
+        "lat": -17.806511,
+        "lon": -50.9053263,
+        "tag": "laboratory",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988676825",
+        "name": "Laboratório de Águas e Efluentes",
+        "lat": -17.8065444,
+        "lon": -50.905264,
+        "tag": "laboratory",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      }
+    ],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Bloco de Engenharia II",
+    "lat": -17.806557899999998,
+    "lon": -50.90454775714285,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8063449,
+        -50.9046151
+      ],
+      [
+        -17.806315,
+        -50.9044208
+      ],
+      [
+        -17.806796,
+        -50.9043393
+      ],
+      [
+        -17.8068393,
+        -50.9046213
+      ],
+      [
+        -17.8066393,
+        -50.9046552
+      ],
+      [
+        -17.8066259,
+        -50.9045675
+      ],
+      [
+        -17.8063449,
+        -50.9046151
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Bloco de Engenharia de Alimentos",
+    "lat": -17.8049371,
+    "lon": -50.9056312,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8048426,
+        -50.9056551
+      ],
+      [
+        -17.8048626,
+        -50.9056304
+      ],
+      [
+        -17.8049371,
+        -50.9056312
+      ],
+      [
+        -17.8049662,
+        -50.9056316
+      ],
+      [
+        -17.8049791,
+        -50.9056317
+      ],
+      [
+        -17.8050386,
+        -50.9056324
+      ],
+      [
+        -17.8050413,
+        -50.9057287
+      ],
+      [
+        -17.8048459,
+        -50.9057276
+      ],
+      [
+        -17.8048426,
+        -50.9056551
+      ]
+    ],
+    "entrances": [
+      {
+        "lat": -17.8049371,
+        "lon": -50.9056312,
+        "type": "yes",
+        "wheelchair": "yes"
+      },
+      {
+        "lat": -17.8049662,
+        "lon": -50.9056316,
+        "type": "yes",
+        "wheelchair": "yes"
+      }
+    ],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Bloco de Mecanização",
+    "lat": -17.8051172,
+    "lon": -50.9050731,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8049682,
+        -50.9050511
+      ],
+      [
+        -17.8050045,
+        -50.9050504
+      ],
+      [
+        -17.805005,
+        -50.9050753
+      ],
+      [
+        -17.8051021,
+        -50.9050734
+      ],
+      [
+        -17.8051172,
+        -50.9050731
+      ],
+      [
+        -17.8051939,
+        -50.9050715
+      ],
+      [
+        -17.8053056,
+        -50.9050693
+      ],
+      [
+        -17.8052986,
+        -50.9046718
+      ],
+      [
+        -17.8052422,
+        -50.9046729
+      ],
+      [
+        -17.8052415,
+        -50.9046344
+      ],
+      [
+        -17.8050192,
+        -50.9046388
+      ],
+      [
+        -17.8050202,
+        -50.904693
+      ],
+      [
+        -17.8049617,
+        -50.9046942
+      ],
+      [
+        -17.8049682,
+        -50.9050511
+      ]
+    ],
+    "entrances": [
+      {
+        "lat": -17.8051172,
+        "lon": -50.9050731,
+        "type": "yes",
+        "wheelchair": "yes"
+      },
+      {
+        "lat": -17.8051939,
+        "lon": -50.9050715,
+        "type": "yes",
+        "wheelchair": "yes"
+      }
+    ],
+    "rooms": [
+      {
+        "id": "13988663196",
+        "name": "Estação IF Lab Maker",
+        "lat": -17.8050766,
+        "lon": -50.9049842,
+        "tag": "laboratory",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988663197",
+        "name": "Sala",
+        "lat": -17.8050758,
+        "lon": -50.9049474,
+        "tag": null,
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988663200",
+        "name": "Sala",
+        "lat": -17.8050787,
+        "lon": -50.9048761,
+        "tag": null,
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988676801",
+        "name": "Sala",
+        "lat": -17.8050775,
+        "lon": -50.9048547,
+        "tag": null,
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988676804",
+        "name": "Sala",
+        "lat": -17.8050768,
+        "lon": -50.9048139,
+        "tag": null,
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988676807",
+        "name": "Sala",
+        "lat": -17.805213,
+        "lon": -50.9049844,
+        "tag": null,
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988676809",
+        "name": "Sala",
+        "lat": -17.8052098,
+        "lon": -50.9049049,
+        "tag": null,
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988676811",
+        "name": "Sala",
+        "lat": -17.8052093,
+        "lon": -50.9048853,
+        "tag": null,
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988676813",
+        "name": "Sala",
+        "lat": -17.8052083,
+        "lon": -50.9048482,
+        "tag": null,
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988676815",
+        "name": "Sala",
+        "lat": -17.8052081,
+        "lon": -50.904824,
+        "tag": null,
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988676817",
+        "name": "Sala",
+        "lat": -17.805208,
+        "lon": -50.9047906,
+        "tag": null,
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13988676819",
+        "name": "Sala",
+        "lat": -17.8052076,
+        "lon": -50.9047705,
+        "tag": null,
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      }
+    ],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Brasiman",
+    "lat": -17.7851093,
+    "lon": -50.9108656,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "COMIGO (Loja Agropecuária)",
+    "lat": -17.7890269,
+    "lon": -50.9184951,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Café Éden",
+    "lat": -17.8032716,
+    "lon": -50.9135504,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Camelódromo Paulo Reis",
+    "lat": -17.78534952,
+    "lon": -50.91265118,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7857088,
+        -50.9125805
+      ],
+      [
+        -17.7855905,
+        -50.9123396
+      ],
+      [
+        -17.7848115,
+        -50.9127596
+      ],
+      [
+        -17.784928,
+        -50.9129957
+      ],
+      [
+        -17.7857088,
+        -50.9125805
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Campo de Futebol",
+    "lat": -17.804054533333332,
+    "lon": -50.9049786,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8038103,
+        -50.9052781
+      ],
+      [
+        -17.8046735,
+        -50.9051095
+      ],
+      [
+        -17.8045865,
+        -50.9045262
+      ],
+      [
+        -17.8036966,
+        -50.9047054
+      ],
+      [
+        -17.80375,
+        -50.9049743
+      ],
+      [
+        -17.8038103,
+        -50.9052781
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Carfani",
+    "lat": -17.7851897,
+    "lon": -50.9115134,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Casa de Cultura",
+    "lat": -17.8012274,
+    "lon": -50.9067057,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8013422,
+        -50.9066101
+      ],
+      [
+        -17.8012274,
+        -50.9067057
+      ],
+      [
+        -17.8012201,
+        -50.9067118
+      ],
+      [
+        -17.8011619,
+        -50.9066347
+      ],
+      [
+        -17.8012173,
+        -50.9065886
+      ],
+      [
+        -17.8011903,
+        -50.9065529
+      ],
+      [
+        -17.8012613,
+        -50.9064915
+      ],
+      [
+        -17.8013422,
+        -50.9066101
+      ]
+    ],
+    "entrances": [
+      {
+        "lat": -17.8012274,
+        "lon": -50.9067057,
+        "type": "main",
+        "wheelchair": "yes"
+      }
+    ],
+    "rooms": [],
+    "short_name": "NAIF",
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Casafertil Ltda",
+    "lat": -17.7864306,
+    "lon": -50.9057606,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Castrillon Autopeças",
+    "lat": -17.7889637,
+    "lon": -50.9057774,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Centro Acadêmico de Engenharia de Alimentos",
+    "lat": -17.8036781,
+    "lon": -50.9052625,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8036463,
+        -50.9052803
+      ],
+      [
+        -17.8036781,
+        -50.9052625
+      ],
+      [
+        -17.8036541,
+        -50.9050933
+      ],
+      [
+        -17.8036162,
+        -50.9050868
+      ],
+      [
+        -17.8036463,
+        -50.9052803
+      ]
+    ],
+    "entrances": [
+      {
+        "lat": -17.8036781,
+        "lon": -50.9052625,
+        "type": "yes",
+        "wheelchair": "yes"
+      }
+    ],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Centro de Educação Rosa de Saberes",
+    "lat": -17.8013938,
+    "lon": -50.906658,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8013837,
+        -50.906666
+      ],
+      [
+        -17.8013938,
+        -50.906658
+      ],
+      [
+        -17.801419,
+        -50.9066379
+      ],
+      [
+        -17.8013897,
+        -50.9065716
+      ],
+      [
+        -17.8014222,
+        -50.9065413
+      ],
+      [
+        -17.801462,
+        -50.906504
+      ],
+      [
+        -17.8014887,
+        -50.906536
+      ],
+      [
+        -17.8014946,
+        -50.9065311
+      ],
+      [
+        -17.8015362,
+        -50.906496
+      ],
+      [
+        -17.8014084,
+        -50.906329
+      ],
+      [
+        -17.801365,
+        -50.9063656
+      ],
+      [
+        -17.8013729,
+        -50.9063759
+      ],
+      [
+        -17.8012617,
+        -50.9064809
+      ],
+      [
+        -17.8013837,
+        -50.906666
+      ]
+    ],
+    "entrances": [
+      {
+        "lat": -17.8013938,
+        "lon": -50.906658,
+        "type": "yes",
+        "wheelchair": "yes"
+      },
+      {
+        "lat": -17.8014222,
+        "lon": -50.9065413,
+        "type": "yes",
+        "wheelchair": "yes"
+      },
+      {
+        "lat": -17.8014946,
+        "lon": -50.9065311,
+        "type": "yes",
+        "wheelchair": "yes"
+      }
+    ],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Centro de Estudos Sociais Aplicados",
+    "lat": -17.8015522,
+    "lon": -50.9064338,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8015877,
+        -50.9064031
+      ],
+      [
+        -17.8015146,
+        -50.9063095
+      ],
+      [
+        -17.8014498,
+        -50.9063654
+      ],
+      [
+        -17.801523,
+        -50.906459
+      ],
+      [
+        -17.8015522,
+        -50.9064338
+      ],
+      [
+        -17.8015877,
+        -50.9064031
+      ]
+    ],
+    "entrances": [
+      {
+        "lat": -17.8015522,
+        "lon": -50.9064338,
+        "type": "main",
+        "wheelchair": "yes"
+      }
+    ],
+    "rooms": [],
+    "short_name": "CESA",
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Clube Dona Gercina",
+    "lat": -17.778940725,
+    "lon": -50.9083312,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7776577,
+        -50.9097869
+      ],
+      [
+        -17.7784784,
+        -50.9088559
+      ],
+      [
+        -17.7769454,
+        -50.9072948
+      ],
+      [
+        -17.779238,
+        -50.9067067
+      ],
+      [
+        -17.7792004,
+        -50.9067724
+      ],
+      [
+        -17.7798372,
+        -50.9070184
+      ],
+      [
+        -17.7797095,
+        -50.907368
+      ],
+      [
+        -17.779694,
+        -50.9074208
+      ],
+      [
+        -17.7802979,
+        -50.9076607
+      ],
+      [
+        -17.7799224,
+        -50.9087584
+      ],
+      [
+        -17.7793301,
+        -50.9085348
+      ],
+      [
+        -17.7792914,
+        -50.9085266
+      ],
+      [
+        -17.7792643,
+        -50.9085592
+      ],
+      [
+        -17.7786759,
+        -50.9102707
+      ],
+      [
+        -17.7778513,
+        -50.909978
+      ],
+      [
+        -17.7776577,
+        -50.9097869
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Comigo",
+    "lat": -17.78915826,
+    "lon": -50.91847146,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7890664,
+        -50.9187155
+      ],
+      [
+        -17.7894891,
+        -50.9184849
+      ],
+      [
+        -17.7892911,
+        -50.9181034
+      ],
+      [
+        -17.7888783,
+        -50.918338
+      ],
+      [
+        -17.7890664,
+        -50.9187155
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Companhia Nacional de Abastecimento-CONAB",
+    "lat": -17.78893323076923,
+    "lon": -50.8995527,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7887568,
+        -50.8992104
+      ],
+      [
+        -17.7889121,
+        -50.8993077
+      ],
+      [
+        -17.7887007,
+        -50.8996797
+      ],
+      [
+        -17.7885111,
+        -50.8995608
+      ],
+      [
+        -17.7882868,
+        -50.8999554
+      ],
+      [
+        -17.7889184,
+        -50.9003514
+      ],
+      [
+        -17.7891258,
+        -50.8999864
+      ],
+      [
+        -17.7889984,
+        -50.8999065
+      ],
+      [
+        -17.7892515,
+        -50.8994612
+      ],
+      [
+        -17.7893715,
+        -50.8995365
+      ],
+      [
+        -17.789566,
+        -50.8991942
+      ],
+      [
+        -17.7889761,
+        -50.8988245
+      ],
+      [
+        -17.7887568,
+        -50.8992104
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Constrular Materiais para Construção - Loja 01",
+    "lat": -17.789949,
+    "lon": -50.9216187,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Copiadora",
+    "lat": -17.803316,
+    "lon": -50.9049923,
+    "type": "way",
+    "polygon": [
+      [
+        -17.803395,
+        -50.9050443
+      ],
+      [
+        -17.8033501,
+        -50.9050425
+      ],
+      [
+        -17.8033168,
+        -50.9050051
+      ],
+      [
+        -17.803316,
+        -50.9049923
+      ],
+      [
+        -17.803315,
+        -50.9049738
+      ],
+      [
+        -17.8033359,
+        -50.9049421
+      ],
+      [
+        -17.8033632,
+        -50.9049276
+      ],
+      [
+        -17.8033928,
+        -50.9049253
+      ],
+      [
+        -17.8034119,
+        -50.9049804
+      ],
+      [
+        -17.803395,
+        -50.9050443
+      ]
+    ],
+    "entrances": [
+      {
+        "lat": -17.803316,
+        "lon": -50.9049923,
+        "type": "main",
+        "wheelchair": "yes"
+      }
+    ],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Corrego Adão Mota",
+    "lat": -17.811817264444443,
+    "lon": -50.92143968888889,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8175336,
+        -50.9216356
+      ],
+      [
+        -17.8171894,
+        -50.9219426
+      ],
+      [
+        -17.8168643,
+        -50.9220334
+      ],
+      [
+        -17.8166739,
+        -50.9220572
+      ],
+      [
+        -17.8165178,
+        -50.9221273
+      ],
+      [
+        -17.8162307,
+        -50.9221337
+      ],
+      [
+        -17.8159059,
+        -50.9220033
+      ],
+      [
+        -17.8156755,
+        -50.9220282
+      ],
+      [
+        -17.8153811,
+        -50.9219141
+      ],
+      [
+        -17.8150508,
+        -50.921711
+      ],
+      [
+        -17.814884,
+        -50.9215406
+      ],
+      [
+        -17.8146548,
+        -50.9213409
+      ],
+      [
+        -17.8144677,
+        -50.9213205
+      ],
+      [
+        -17.8143892,
+        -50.921312
+      ],
+      [
+        -17.8142724,
+        -50.9214048
+      ],
+      [
+        -17.8141833,
+        -50.9214861
+      ],
+      [
+        -17.8139678,
+        -50.9213941
+      ],
+      [
+        -17.8138439,
+        -50.9213733
+      ],
+      [
+        -17.813487,
+        -50.921352
+      ],
+      [
+        -17.8133033,
+        -50.9214721
+      ],
+      [
+        -17.8130232,
+        -50.9214248
+      ],
+      [
+        -17.8127705,
+        -50.9213074
+      ],
+      [
+        -17.8124567,
+        -50.9213005
+      ],
+      [
+        -17.8121542,
+        -50.9213251
+      ],
+      [
+        -17.8119123,
+        -50.921402
+      ],
+      [
+        -17.8116865,
+        -50.921437
+      ],
+      [
+        -17.8113939,
+        -50.9216695
+      ],
+      [
+        -17.8111171,
+        -50.9217322
+      ],
+      [
+        -17.810805,
+        -50.9218605
+      ],
+      [
+        -17.8105669,
+        -50.9220319
+      ],
+      [
+        -17.810125,
+        -50.9222097
+      ],
+      [
+        -17.8097605,
+        -50.9221839
+      ],
+      [
+        -17.8091732,
+        -50.9221169
+      ],
+      [
+        -17.80872,
+        -50.9218183
+      ],
+      [
+        -17.8081673,
+        -50.9216309
+      ],
+      [
+        -17.8074458,
+        -50.9214519
+      ],
+      [
+        -17.8071707,
+        -50.9212536
+      ],
+      [
+        -17.8067649,
+        -50.9209732
+      ],
+      [
+        -17.8066702,
+        -50.9208532
+      ],
+      [
+        -17.8065138,
+        -50.9206976
+      ],
+      [
+        -17.8063479,
+        -50.9206026
+      ],
+      [
+        -17.8061006,
+        -50.9204272
+      ],
+      [
+        -17.8057253,
+        -50.920101
+      ],
+      [
+        -17.8054403,
+        -50.9197868
+      ],
+      [
+        -17.8052887,
+        -50.9196055
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Corrego Adão Mota",
+    "lat": -17.803103450000002,
+    "lon": -50.916726499999996,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8031488,
+        -50.916804
+      ],
+      [
+        -17.8030581,
+        -50.916649
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Corrego Adão Mota",
+    "lat": -17.80158148235294,
+    "lon": -50.91414304705882,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8030581,
+        -50.916649
+      ],
+      [
+        -17.8029847,
+        -50.9165235
+      ],
+      [
+        -17.8027219,
+        -50.9160549
+      ],
+      [
+        -17.8026332,
+        -50.9157387
+      ],
+      [
+        -17.8024527,
+        -50.9154837
+      ],
+      [
+        -17.8024327,
+        -50.9150789
+      ],
+      [
+        -17.8023215,
+        -50.9147199
+      ],
+      [
+        -17.8020605,
+        -50.9143845
+      ],
+      [
+        -17.8017735,
+        -50.9141114
+      ],
+      [
+        -17.8014231,
+        -50.913867
+      ],
+      [
+        -17.8011714,
+        -50.9136035
+      ],
+      [
+        -17.8009419,
+        -50.9132056
+      ],
+      [
+        -17.8008367,
+        -50.9129078
+      ],
+      [
+        -17.8006171,
+        -50.91265
+      ],
+      [
+        -17.800245,
+        -50.9122349
+      ],
+      [
+        -17.7999288,
+        -50.911882
+      ],
+      [
+        -17.7992824,
+        -50.9113365
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Corrego Adão Mota",
+    "lat": -17.80520965,
+    "lon": -50.91951105,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8052887,
+        -50.9196055
+      ],
+      [
+        -17.8051306,
+        -50.9194166
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Corrego Adão Mota",
+    "lat": -17.80407986666667,
+    "lon": -50.91804237777777,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8051306,
+        -50.9194166
+      ],
+      [
+        -17.8050283,
+        -50.9192943
+      ],
+      [
+        -17.804815,
+        -50.9187815
+      ],
+      [
+        -17.804391,
+        -50.9184614
+      ],
+      [
+        -17.8039108,
+        -50.9179861
+      ],
+      [
+        -17.8036298,
+        -50.9174751
+      ],
+      [
+        -17.803407,
+        -50.9171726
+      ],
+      [
+        -17.8032575,
+        -50.9169898
+      ],
+      [
+        -17.8031488,
+        -50.916804
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Correios",
+    "lat": -17.7861924,
+    "lon": -50.9157262,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Córrego Barrinha",
+    "lat": -17.794777766666666,
+    "lon": -50.923915799999996,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7945162,
+        -50.9235955
+      ],
+      [
+        -17.7946706,
+        -50.923829
+      ],
+      [
+        -17.7951465,
+        -50.9243229
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Córrego Barrinha",
+    "lat": -17.78977545,
+    "lon": -50.9165861,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7892448,
+        -50.9158556
+      ],
+      [
+        -17.7903061,
+        -50.9173166
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Córrego Barrinha",
+    "lat": -17.792220575,
+    "lon": -50.91938275,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7919317,
+        -50.9190292
+      ],
+      [
+        -17.7921408,
+        -50.9192831
+      ],
+      [
+        -17.792151,
+        -50.9192955
+      ],
+      [
+        -17.7926588,
+        -50.9199232
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Córrego Barrinha",
+    "lat": -17.7939481,
+    "lon": -50.92214085714286,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7926588,
+        -50.9199232
+      ],
+      [
+        -17.7937454,
+        -50.9213498
+      ],
+      [
+        -17.7940282,
+        -50.9218473
+      ],
+      [
+        -17.7940953,
+        -50.9220809
+      ],
+      [
+        -17.7942283,
+        -50.9228973
+      ],
+      [
+        -17.7943645,
+        -50.923292
+      ],
+      [
+        -17.7945162,
+        -50.9235955
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Córrego Barrinha",
+    "lat": -17.795481266666666,
+    "lon": -50.92467563333333,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7951465,
+        -50.9243229
+      ],
+      [
+        -17.7952386,
+        -50.9244471
+      ],
+      [
+        -17.7960587,
+        -50.9252569
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Córrego Barrinha",
+    "lat": -17.791020175,
+    "lon": -50.9181011,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7903531,
+        -50.9173813
+      ],
+      [
+        -17.7905004,
+        -50.9175841
+      ],
+      [
+        -17.7912955,
+        -50.9184098
+      ],
+      [
+        -17.7919317,
+        -50.9190292
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Córrego Barrinha",
+    "lat": -17.7903296,
+    "lon": -50.917348950000004,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7903061,
+        -50.9173166
+      ],
+      [
+        -17.7903531,
+        -50.9173813
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Córrego do Sapo",
+    "lat": -17.8237089165,
+    "lon": -50.915351967,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8126083,
+        -50.9291887
+      ],
+      [
+        -17.8126661,
+        -50.9291075
+      ],
+      [
+        -17.8127546,
+        -50.9290692
+      ],
+      [
+        -17.8130732,
+        -50.9290204
+      ],
+      [
+        -17.8133851,
+        -50.9289995
+      ],
+      [
+        -17.813687,
+        -50.9290192
+      ],
+      [
+        -17.813837,
+        -50.9287729
+      ],
+      [
+        -17.8139626,
+        -50.9285046
+      ],
+      [
+        -17.8142903,
+        -50.9282596
+      ],
+      [
+        -17.8143947,
+        -50.9279949
+      ],
+      [
+        -17.8145665,
+        -50.9277377
+      ],
+      [
+        -17.815035,
+        -50.9277386
+      ],
+      [
+        -17.8153295,
+        -50.9279075
+      ],
+      [
+        -17.8154291,
+        -50.9281291
+      ],
+      [
+        -17.8156134,
+        -50.9283022
+      ],
+      [
+        -17.8158449,
+        -50.9282843
+      ],
+      [
+        -17.8159523,
+        -50.928388
+      ],
+      [
+        -17.8159236,
+        -50.9285216
+      ],
+      [
+        -17.8159758,
+        -50.9286659
+      ],
+      [
+        -17.815886,
+        -50.9287077
+      ],
+      [
+        -17.8158385,
+        -50.9290006
+      ],
+      [
+        -17.816045,
+        -50.9291807
+      ],
+      [
+        -17.8163891,
+        -50.9291073
+      ],
+      [
+        -17.8165617,
+        -50.9289678
+      ],
+      [
+        -17.8166954,
+        -50.9288101
+      ],
+      [
+        -17.8168703,
+        -50.9287906
+      ],
+      [
+        -17.8171438,
+        -50.9288987
+      ],
+      [
+        -17.8172783,
+        -50.9289065
+      ],
+      [
+        -17.817331,
+        -50.9289095
+      ],
+      [
+        -17.8175284,
+        -50.9288101
+      ],
+      [
+        -17.817475,
+        -50.9282397
+      ],
+      [
+        -17.817257,
+        -50.9279337
+      ],
+      [
+        -17.8171943,
+        -50.9278177
+      ],
+      [
+        -17.8172191,
+        -50.9277327
+      ],
+      [
+        -17.8173416,
+        -50.9276512
+      ],
+      [
+        -17.8173722,
+        -50.9274785
+      ],
+      [
+        -17.8174656,
+        -50.927356
+      ],
+      [
+        -17.8176508,
+        -50.927252
+      ],
+      [
+        -17.8179301,
+        -50.9269468
+      ],
+      [
+        -17.8180763,
+        -50.9268273
+      ],
+      [
+        -17.8181973,
+        -50.9265808
+      ],
+      [
+        -17.8182985,
+        -50.9262919
+      ],
+      [
+        -17.8183709,
+        -50.9260508
+      ],
+      [
+        -17.8184452,
+        -50.9259321
+      ],
+      [
+        -17.8184996,
+        -50.9258077
+      ],
+      [
+        -17.8186063,
+        -50.9256906
+      ],
+      [
+        -17.8187501,
+        -50.925536
+      ],
+      [
+        -17.8188592,
+        -50.9254074
+      ],
+      [
+        -17.8190336,
+        -50.9251034
+      ],
+      [
+        -17.819216,
+        -50.9247662
+      ],
+      [
+        -17.8192045,
+        -50.924281
+      ],
+      [
+        -17.8192338,
+        -50.9238243
+      ],
+      [
+        -17.8192274,
+        -50.9235692
+      ],
+      [
+        -17.8191406,
+        -50.9233736
+      ],
+      [
+        -17.8189548,
+        -50.9232932
+      ],
+      [
+        -17.8188931,
+        -50.923298
+      ],
+      [
+        -17.8184815,
+        -50.9235312
+      ],
+      [
+        -17.8184224,
+        -50.9234682
+      ],
+      [
+        -17.8184901,
+        -50.9232764
+      ],
+      [
+        -17.8182436,
+        -50.9226207
+      ],
+      [
+        -17.8181339,
+        -50.9225486
+      ],
+      [
+        -17.8180177,
+        -50.9225121
+      ],
+      [
+        -17.8179467,
+        -50.9224761
+      ],
+      [
+        -17.8178843,
+        -50.9224039
+      ],
+      [
+        -17.8178119,
+        -50.922271
+      ],
+      [
+        -17.8178133,
+        -50.9221213
+      ],
+      [
+        -17.8177261,
+        -50.9219653
+      ],
+      [
+        -17.8176446,
+        -50.9217635
+      ],
+      [
+        -17.8175336,
+        -50.9216356
+      ],
+      [
+        -17.8175199,
+        -50.9214026
+      ],
+      [
+        -17.8175472,
+        -50.9212824
+      ],
+      [
+        -17.8176492,
+        -50.9211913
+      ],
+      [
+        -17.8178631,
+        -50.921161
+      ],
+      [
+        -17.8179995,
+        -50.9212354
+      ],
+      [
+        -17.81812,
+        -50.9212972
+      ],
+      [
+        -17.8182342,
+        -50.9213777
+      ],
+      [
+        -17.8183386,
+        -50.9214017
+      ],
+      [
+        -17.8185062,
+        -50.9214747
+      ],
+      [
+        -17.8187103,
+        -50.9216632
+      ],
+      [
+        -17.8188457,
+        -50.921707
+      ],
+      [
+        -17.8191759,
+        -50.9216532
+      ],
+      [
+        -17.8195394,
+        -50.9215684
+      ],
+      [
+        -17.8198407,
+        -50.9213831
+      ],
+      [
+        -17.8207378,
+        -50.9208777
+      ],
+      [
+        -17.8213953,
+        -50.9205566
+      ],
+      [
+        -17.8218662,
+        -50.9205315
+      ],
+      [
+        -17.8227026,
+        -50.9206754
+      ],
+      [
+        -17.8230426,
+        -50.9205889
+      ],
+      [
+        -17.8234543,
+        -50.9202521
+      ],
+      [
+        -17.8236993,
+        -50.9200315
+      ],
+      [
+        -17.8238415,
+        -50.919949
+      ],
+      [
+        -17.8244579,
+        -50.9194736
+      ],
+      [
+        -17.8246849,
+        -50.9193409
+      ],
+      [
+        -17.8248241,
+        -50.9192607
+      ],
+      [
+        -17.8253385,
+        -50.9190645
+      ],
+      [
+        -17.8255587,
+        -50.9191169
+      ],
+      [
+        -17.8254551,
+        -50.919001
+      ],
+      [
+        -17.8253935,
+        -50.9187242
+      ],
+      [
+        -17.8256771,
+        -50.9183226
+      ],
+      [
+        -17.8256685,
+        -50.9181526
+      ],
+      [
+        -17.8257931,
+        -50.9180217
+      ],
+      [
+        -17.8257587,
+        -50.917769
+      ],
+      [
+        -17.8257902,
+        -50.9175508
+      ],
+      [
+        -17.8260137,
+        -50.9174952
+      ],
+      [
+        -17.8260838,
+        -50.9173357
+      ],
+      [
+        -17.8260616,
+        -50.9169944
+      ],
+      [
+        -17.8255006,
+        -50.9169008
+      ],
+      [
+        -17.8251927,
+        -50.9166157
+      ],
+      [
+        -17.8254074,
+        -50.9163668
+      ],
+      [
+        -17.8253973,
+        -50.9162583
+      ],
+      [
+        -17.8252312,
+        -50.9162157
+      ],
+      [
+        -17.8252596,
+        -50.9160136
+      ],
+      [
+        -17.8259806,
+        -50.9157711
+      ],
+      [
+        -17.8260798,
+        -50.9153562
+      ],
+      [
+        -17.8261224,
+        -50.914769
+      ],
+      [
+        -17.8264282,
+        -50.9146605
+      ],
+      [
+        -17.826815,
+        -50.9146988
+      ],
+      [
+        -17.8274247,
+        -50.9146201
+      ],
+      [
+        -17.8274388,
+        -50.9141669
+      ],
+      [
+        -17.8273983,
+        -50.9135946
+      ],
+      [
+        -17.8272566,
+        -50.913467
+      ],
+      [
+        -17.8269122,
+        -50.9135181
+      ],
+      [
+        -17.8267806,
+        -50.9133415
+      ],
+      [
+        -17.8268555,
+        -50.9130032
+      ],
+      [
+        -17.8268373,
+        -50.9128883
+      ],
+      [
+        -17.8265821,
+        -50.9127905
+      ],
+      [
+        -17.8263654,
+        -50.9124118
+      ],
+      [
+        -17.8262864,
+        -50.9120012
+      ],
+      [
+        -17.8260778,
+        -50.9118671
+      ],
+      [
+        -17.8256869,
+        -50.9119246
+      ],
+      [
+        -17.8255856,
+        -50.9118033
+      ],
+      [
+        -17.8256707,
+        -50.911699
+      ],
+      [
+        -17.8258753,
+        -50.9116969
+      ],
+      [
+        -17.8259603,
+        -50.9115629
+      ],
+      [
+        -17.8257963,
+        -50.9110693
+      ],
+      [
+        -17.8257477,
+        -50.9107013
+      ],
+      [
+        -17.8256221,
+        -50.9105247
+      ],
+      [
+        -17.8256282,
+        -50.9100758
+      ],
+      [
+        -17.8258813,
+        -50.9096758
+      ],
+      [
+        -17.8259158,
+        -50.9095716
+      ],
+      [
+        -17.826092,
+        -50.9093928
+      ],
+      [
+        -17.8261406,
+        -50.9092163
+      ],
+      [
+        -17.8263512,
+        -50.9091205
+      ],
+      [
+        -17.8264646,
+        -50.9088759
+      ],
+      [
+        -17.8267462,
+        -50.9087482
+      ],
+      [
+        -17.8271674,
+        -50.9083078
+      ],
+      [
+        -17.8272768,
+        -50.9080653
+      ],
+      [
+        -17.8275887,
+        -50.9080695
+      ],
+      [
+        -17.8277224,
+        -50.9079142
+      ],
+      [
+        -17.8276839,
+        -50.9077121
+      ],
+      [
+        -17.8281963,
+        -50.9069377
+      ],
+      [
+        -17.828168,
+        -50.9062463
+      ],
+      [
+        -17.828328,
+        -50.9058208
+      ],
+      [
+        -17.8282692,
+        -50.9056697
+      ],
+      [
+        -17.8280505,
+        -50.9057378
+      ],
+      [
+        -17.8278014,
+        -50.9051102
+      ],
+      [
+        -17.8278702,
+        -50.9046719
+      ],
+      [
+        -17.8278095,
+        -50.9045975
+      ],
+      [
+        -17.827692,
+        -50.9045656
+      ],
+      [
+        -17.8277528,
+        -50.9041954
+      ],
+      [
+        -17.8282878,
+        -50.9036051
+      ],
+      [
+        -17.8288893,
+        -50.9031748
+      ],
+      [
+        -17.829147,
+        -50.903235
+      ],
+      [
+        -17.8295366,
+        -50.9030033
+      ],
+      [
+        -17.8296483,
+        -50.902552
+      ],
+      [
+        -17.8300435,
+        -50.9024407
+      ],
+      [
+        -17.8308598,
+        -50.9017788
+      ],
+      [
+        -17.8308455,
+        -50.9012793
+      ],
+      [
+        -17.8310976,
+        -50.9009153
+      ],
+      [
+        -17.8317019,
+        -50.9005934
+      ],
+      [
+        -17.8318364,
+        -50.900471
+      ],
+      [
+        -17.8319968,
+        -50.9004469
+      ],
+      [
+        -17.8319983,
+        -50.9002634
+      ],
+      [
+        -17.8321529,
+        -50.9002258
+      ],
+      [
+        -17.8322904,
+        -50.9003055
+      ],
+      [
+        -17.8324751,
+        -50.8999941
+      ],
+      [
+        -17.8325525,
+        -50.8994886
+      ],
+      [
+        -17.8324465,
+        -50.8993999
+      ],
+      [
+        -17.8326762,
+        -50.8987804
+      ],
+      [
+        -17.8332549,
+        -50.8981518
+      ],
+      [
+        -17.8332661,
+        -50.8977795
+      ],
+      [
+        -17.8336114,
+        -50.8975455
+      ],
+      [
+        -17.8338797,
+        -50.8972168
+      ],
+      [
+        -17.8338437,
+        -50.8970485
+      ],
+      [
+        -17.8340743,
+        -50.8967852
+      ],
+      [
+        -17.8340886,
+        -50.8965475
+      ],
+      [
+        -17.8342977,
+        -50.8964242
+      ],
+      [
+        -17.8343306,
+        -50.8962512
+      ],
+      [
+        -17.8341531,
+        -50.895663
+      ],
+      [
+        -17.8345936,
+        -50.8948955
+      ],
+      [
+        -17.834548,
+        -50.8947086
+      ],
+      [
+        -17.8344177,
+        -50.8944303
+      ],
+      [
+        -17.8347012,
+        -50.8941086
+      ],
+      [
+        -17.8347115,
+        -50.8938652
+      ],
+      [
+        -17.8349433,
+        -50.8936326
+      ],
+      [
+        -17.8350819,
+        -50.8927217
+      ],
+      [
+        -17.835055,
+        -50.8921435
+      ],
+      [
+        -17.8353654,
+        -50.8917131
+      ],
+      [
+        -17.8355627,
+        -50.8906593
+      ],
+      [
+        -17.8362001,
+        -50.8903489
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Delegacia Regional de Polícia Civil",
+    "lat": -17.7816891,
+    "lon": -50.9186434,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Depósito",
+    "lat": -17.80221026,
+    "lon": -50.905915320000005,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8021721,
+        -50.905917
+      ],
+      [
+        -17.8022341,
+        -50.905867
+      ],
+      [
+        -17.8022675,
+        -50.9059128
+      ],
+      [
+        -17.8022055,
+        -50.9059628
+      ],
+      [
+        -17.8021721,
+        -50.905917
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Diretoria de Pós Graduação, Pesquisa e Inovação",
+    "lat": -17.8026693,
+    "lon": -50.9056787,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8025686,
+        -50.9056946
+      ],
+      [
+        -17.8026693,
+        -50.9056787
+      ],
+      [
+        -17.8027465,
+        -50.9056665
+      ],
+      [
+        -17.8027064,
+        -50.905349
+      ],
+      [
+        -17.8025397,
+        -50.9053747
+      ],
+      [
+        -17.8025686,
+        -50.9056946
+      ]
+    ],
+    "entrances": [
+      {
+        "lat": -17.8026693,
+        "lon": -50.9056787,
+        "type": "main",
+        "wheelchair": "yes"
+      }
+    ],
+    "rooms": [],
+    "short_name": "DPGPI",
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "DrogaStore",
+    "lat": -17.787302,
+    "lon": -50.9178125,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "EE Abel Pereira de Castro",
+    "lat": -17.790644233333335,
+    "lon": -50.91955934999999,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7905176,
+        -50.9198495
+      ],
+      [
+        -17.7902594,
+        -50.9193195
+      ],
+      [
+        -17.7907582,
+        -50.9190792
+      ],
+      [
+        -17.7910515,
+        -50.9195506
+      ],
+      [
+        -17.7907611,
+        -50.9197078
+      ],
+      [
+        -17.7905176,
+        -50.9198495
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "EE Filinho Portilho",
+    "lat": -17.797793759999998,
+    "lon": -50.91366051999999,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7976723,
+        -50.914026
+      ],
+      [
+        -17.7974822,
+        -50.9138196
+      ],
+      [
+        -17.7978545,
+        -50.9129554
+      ],
+      [
+        -17.7982875,
+        -50.9134756
+      ],
+      [
+        -17.7976723,
+        -50.914026
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Equatorial - Base Rio Verde",
+    "lat": -17.79610554285714,
+    "lon": -50.91229761428571,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7955589,
+        -50.9123978
+      ],
+      [
+        -17.7960449,
+        -50.9119731
+      ],
+      [
+        -17.7963621,
+        -50.9116871
+      ],
+      [
+        -17.7967856,
+        -50.9122102
+      ],
+      [
+        -17.7964583,
+        -50.9124957
+      ],
+      [
+        -17.7959701,
+        -50.9129216
+      ],
+      [
+        -17.7955589,
+        -50.9123978
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Espetinho Do Odelio",
+    "lat": -17.7890151,
+    "lon": -50.9208356,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Espetinho Do Vinícius",
+    "lat": -17.7847924,
+    "lon": -50.9232707,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Estilo Acessórios",
+    "lat": -17.8018407,
+    "lon": -50.9229039,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Estufa Casa de Vegetação",
+    "lat": -17.80204346,
+    "lon": -50.905869280000005,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8020247,
+        -50.9059176
+      ],
+      [
+        -17.8021085,
+        -50.9058418
+      ],
+      [
+        -17.8020716,
+        -50.9057968
+      ],
+      [
+        -17.8019878,
+        -50.9058726
+      ],
+      [
+        -17.8020247,
+        -50.9059176
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Estufa Casa de Vegetação",
+    "lat": -17.80531595,
+    "lon": -50.9043251,
+    "type": "way",
+    "polygon": [
+      [
+        -17.805364,
+        -50.9043761
+      ],
+      [
+        -17.8052785,
+        -50.9043846
+      ],
+      [
+        -17.8052713,
+        -50.9043088
+      ],
+      [
+        -17.8052667,
+        -50.9042599
+      ],
+      [
+        -17.8053512,
+        -50.9042451
+      ],
+      [
+        -17.805364,
+        -50.9043761
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Estádio Municipal Mozart Veloso do Carmo",
+    "lat": -17.7980472,
+    "lon": -50.921617,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Eucaliptos",
+    "lat": -17.8150274,
+    "lon": -50.9084641,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "FERRAGISTA FERGOM",
+    "lat": -17.7808689,
+    "lon": -50.9219583,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Feira Coberta",
+    "lat": -17.79747936153846,
+    "lon": -50.92062680769231,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7972298,
+        -50.9210218
+      ],
+      [
+        -17.7973305,
+        -50.921221
+      ],
+      [
+        -17.797706,
+        -50.9210218
+      ],
+      [
+        -17.7977292,
+        -50.9209242
+      ],
+      [
+        -17.7977872,
+        -50.9207575
+      ],
+      [
+        -17.7978453,
+        -50.9206721
+      ],
+      [
+        -17.7978995,
+        -50.9206234
+      ],
+      [
+        -17.797466,
+        -50.9197981
+      ],
+      [
+        -17.7971408,
+        -50.9199851
+      ],
+      [
+        -17.7971911,
+        -50.9201192
+      ],
+      [
+        -17.7971602,
+        -50.9201396
+      ],
+      [
+        -17.7975163,
+        -50.9208429
+      ],
+      [
+        -17.7972298,
+        -50.9210218
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Fundação de Amparo à Pesquisa do Estado de Goiás",
+    "lat": -17.8016113,
+    "lon": -50.9064278,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8016442,
+        -50.9064005
+      ],
+      [
+        -17.8016113,
+        -50.9064278
+      ],
+      [
+        -17.8015146,
+        -50.906299
+      ],
+      [
+        -17.8015476,
+        -50.9062717
+      ],
+      [
+        -17.8016442,
+        -50.9064005
+      ]
+    ],
+    "entrances": [
+      {
+        "lat": -17.8016113,
+        "lon": -50.9064278,
+        "type": "main",
+        "wheelchair": "yes"
+      }
+    ],
+    "rooms": [],
+    "short_name": "FAPEG",
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Gameleira",
+    "lat": -17.808838658333332,
+    "lon": -50.912375644444445,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7997282,
+        -50.9104609
+      ],
+      [
+        -17.8002628,
+        -50.9116682
+      ],
+      [
+        -17.8007558,
+        -50.9121878
+      ],
+      [
+        -17.8014951,
+        -50.9130151
+      ],
+      [
+        -17.8012384,
+        -50.9132585
+      ],
+      [
+        -17.8055055,
+        -50.9179036
+      ],
+      [
+        -17.8061492,
+        -50.9185726
+      ],
+      [
+        -17.8095913,
+        -50.9150279
+      ],
+      [
+        -17.8129106,
+        -50.9186019
+      ],
+      [
+        -17.8130578,
+        -50.9183682
+      ],
+      [
+        -17.8126591,
+        -50.9168558
+      ],
+      [
+        -17.8121753,
+        -50.9159004
+      ],
+      [
+        -17.8104722,
+        -50.9141453
+      ],
+      [
+        -17.8110835,
+        -50.9135149
+      ],
+      [
+        -17.8116393,
+        -50.9136544
+      ],
+      [
+        -17.8145248,
+        -50.9167833
+      ],
+      [
+        -17.8147261,
+        -50.9169857
+      ],
+      [
+        -17.8169461,
+        -50.9148213
+      ],
+      [
+        -17.818115,
+        -50.9160897
+      ],
+      [
+        -17.8196167,
+        -50.9146261
+      ],
+      [
+        -17.8184788,
+        -50.9133902
+      ],
+      [
+        -17.8184014,
+        -50.9131463
+      ],
+      [
+        -17.8196709,
+        -50.9118779
+      ],
+      [
+        -17.8166191,
+        -50.9085075
+      ],
+      [
+        -17.8133455,
+        -50.908261
+      ],
+      [
+        -17.8130357,
+        -50.9071571
+      ],
+      [
+        -17.811805,
+        -50.9058486
+      ],
+      [
+        -17.8027405,
+        -50.9073556
+      ],
+      [
+        -17.8024892,
+        -50.9073957
+      ],
+      [
+        -17.8023513,
+        -50.9074574
+      ],
+      [
+        -17.8022198,
+        -50.9075553
+      ],
+      [
+        -17.8020782,
+        -50.9076949
+      ],
+      [
+        -17.8016758,
+        -50.9081241
+      ],
+      [
+        -17.8012534,
+        -50.9085828
+      ],
+      [
+        -17.7996461,
+        -50.9102663
+      ],
+      [
+        -17.7997282,
+        -50.9104609
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Garagem",
+    "lat": -17.80180288,
+    "lon": -50.90420282,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8018273,
+        -50.9044266
+      ],
+      [
+        -17.801724,
+        -50.9044217
+      ],
+      [
+        -17.8017663,
+        -50.9038671
+      ],
+      [
+        -17.8018695,
+        -50.9038721
+      ],
+      [
+        -17.8018273,
+        -50.9044266
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Gerência de Assistência Estudantil",
+    "lat": -17.8018322,
+    "lon": -50.9061959,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8017621,
+        -50.9062542
+      ],
+      [
+        -17.8017136,
+        -50.9061899
+      ],
+      [
+        -17.801796,
+        -50.9061213
+      ],
+      [
+        -17.8018445,
+        -50.9061857
+      ],
+      [
+        -17.8018322,
+        -50.9061959
+      ],
+      [
+        -17.8017621,
+        -50.9062542
+      ]
+    ],
+    "entrances": [
+      {
+        "lat": -17.8018322,
+        "lon": -50.9061959,
+        "type": "main",
+        "wheelchair": "yes"
+      }
+    ],
+    "rooms": [],
+    "short_name": "GAE",
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Ginasio do IF",
+    "lat": -17.8034041,
+    "lon": -50.90524,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Ginásio Jerônimo Martins",
+    "lat": -17.7980094,
+    "lon": -50.92019328,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7979431,
+        -50.9204521
+      ],
+      [
+        -17.7977271,
+        -50.9200112
+      ],
+      [
+        -17.7981089,
+        -50.919805
+      ],
+      [
+        -17.7983248,
+        -50.920246
+      ],
+      [
+        -17.7979431,
+        -50.9204521
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Ginásio do IF",
+    "lat": -17.8031961,
+    "lon": -50.9052787,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8032122,
+        -50.9053934
+      ],
+      [
+        -17.8031981,
+        -50.9052906
+      ],
+      [
+        -17.8031961,
+        -50.9052787
+      ],
+      [
+        -17.8031768,
+        -50.9051615
+      ],
+      [
+        -17.803606,
+        -50.90507
+      ],
+      [
+        -17.8036134,
+        -50.9051086
+      ],
+      [
+        -17.8036286,
+        -50.9051939
+      ],
+      [
+        -17.8036415,
+        -50.9053066
+      ],
+      [
+        -17.8032122,
+        -50.9053934
+      ]
+    ],
+    "entrances": [
+      {
+        "lat": -17.8031961,
+        "lon": -50.9052787,
+        "type": "main",
+        "wheelchair": "yes"
+      }
+    ],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Gir Alves",
+    "lat": -17.8136573,
+    "lon": -50.9115605,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Grupo Cereal",
+    "lat": -17.786815162499998,
+    "lon": -50.8982472375,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7878157,
+        -50.8978113
+      ],
+      [
+        -17.7859659,
+        -50.8956599
+      ],
+      [
+        -17.7834835,
+        -50.8979205
+      ],
+      [
+        -17.7863032,
+        -50.9013014
+      ],
+      [
+        -17.7879112,
+        -50.8988156
+      ],
+      [
+        -17.787574,
+        -50.8983889
+      ],
+      [
+        -17.7876521,
+        -50.898269
+      ],
+      [
+        -17.7878157,
+        -50.8978113
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Hospital Municipal de Rio Verde",
+    "lat": -17.7943827,
+    "lon": -50.9173228,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Hotel Rivière",
+    "lat": -17.78160308,
+    "lon": -50.89525454,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7812949,
+        -50.8953342
+      ],
+      [
+        -17.7818253,
+        -50.8948586
+      ],
+      [
+        -17.7820692,
+        -50.8951228
+      ],
+      [
+        -17.7815311,
+        -50.8956229
+      ],
+      [
+        -17.7812949,
+        -50.8953342
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "IASD Santo Agostinho",
+    "lat": -17.7825943,
+    "lon": -50.9119068,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Instituto Federal Goiano - Campus Rio Verde",
+    "lat": -17.8032324,
+    "lon": -50.9060195,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Itaú",
+    "lat": -17.7883152,
+    "lon": -50.9182208,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "JM Veículos",
+    "lat": -17.8025887,
+    "lon": -50.9226988,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Jardim das Margaridas",
+    "lat": -17.7949207,
+    "lon": -50.907678,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "LINHA EQUATORIAL",
+    "lat": -17.809267047619045,
+    "lon": -50.93662340238095,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8159045,
+        -50.9675851
+      ],
+      [
+        -17.8158662,
+        -50.9672874
+      ],
+      [
+        -17.8156568,
+        -50.9658873
+      ],
+      [
+        -17.8153529,
+        -50.9640715
+      ],
+      [
+        -17.8150465,
+        -50.9622985
+      ],
+      [
+        -17.8147375,
+        -50.9604853
+      ],
+      [
+        -17.8144413,
+        -50.9586507
+      ],
+      [
+        -17.8141297,
+        -50.9567785
+      ],
+      [
+        -17.8138463,
+        -50.9550244
+      ],
+      [
+        -17.8135552,
+        -50.9531897
+      ],
+      [
+        -17.81349,
+        -50.9527892
+      ],
+      [
+        -17.8134516,
+        -50.9525523
+      ],
+      [
+        -17.8133458,
+        -50.9518996
+      ],
+      [
+        -17.8131313,
+        -50.9504324
+      ],
+      [
+        -17.8128887,
+        -50.9490001
+      ],
+      [
+        -17.8125516,
+        -50.9469938
+      ],
+      [
+        -17.8121762,
+        -50.9446979
+      ],
+      [
+        -17.8118034,
+        -50.942485
+      ],
+      [
+        -17.811529,
+        -50.9407156
+      ],
+      [
+        -17.811216,
+        -50.9388372
+      ],
+      [
+        -17.810999,
+        -50.9374049
+      ],
+      [
+        -17.8107181,
+        -50.9357205
+      ],
+      [
+        -17.8104091,
+        -50.9338671
+      ],
+      [
+        -17.8101231,
+        -50.9320861
+      ],
+      [
+        -17.8097783,
+        -50.9298921
+      ],
+      [
+        -17.8094489,
+        -50.9278724
+      ],
+      [
+        -17.8092982,
+        -50.9268719
+      ],
+      [
+        -17.8090224,
+        -50.9252706
+      ],
+      [
+        -17.8087798,
+        -50.9237927
+      ],
+      [
+        -17.8083483,
+        -50.9209442
+      ],
+      [
+        -17.8080265,
+        -50.919115
+      ],
+      [
+        -17.8069054,
+        -50.9178382
+      ],
+      [
+        -17.8057358,
+        -50.9165829
+      ],
+      [
+        -17.8045662,
+        -50.9152821
+      ],
+      [
+        -17.8033225,
+        -50.9139222
+      ],
+      [
+        -17.8019793,
+        -50.9124497
+      ],
+      [
+        -17.8007764,
+        -50.9111246
+      ],
+      [
+        -17.7997191,
+        -50.9099847
+      ],
+      [
+        -17.7981511,
+        -50.9109396
+      ],
+      [
+        -17.7972266,
+        -50.9115243
+      ],
+      [
+        -17.7960263,
+        -50.9122887
+      ],
+      [
+        -17.7957351,
+        -50.9117469
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": "LT Rio Verde/Cabriúva"
+  },
+  {
+    "name": "Laboratório de Análise Sensorial",
+    "lat": -17.8050258,
+    "lon": -50.9053796,
+    "type": "way",
+    "polygon": [
+      [
+        -17.804894,
+        -50.9054084
+      ],
+      [
+        -17.8048927,
+        -50.9053591
+      ],
+      [
+        -17.8050252,
+        -50.9053554
+      ],
+      [
+        -17.8050258,
+        -50.9053796
+      ],
+      [
+        -17.8050264,
+        -50.9054047
+      ],
+      [
+        -17.804894,
+        -50.9054084
+      ]
+    ],
+    "entrances": [
+      {
+        "lat": -17.8050258,
+        "lon": -50.9053796,
+        "type": "main",
+        "wheelchair": "yes"
+      }
+    ],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Laboratório de Análise de Alimentos",
+    "lat": -17.8049856,
+    "lon": -50.9055657,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8049508,
+        -50.9055663
+      ],
+      [
+        -17.8049856,
+        -50.9055657
+      ],
+      [
+        -17.8050222,
+        -50.905565
+      ],
+      [
+        -17.805021,
+        -50.9055235
+      ],
+      [
+        -17.805029,
+        -50.9055235
+      ],
+      [
+        -17.8050291,
+        -50.9054729
+      ],
+      [
+        -17.8048939,
+        -50.9054727
+      ],
+      [
+        -17.8048938,
+        -50.9055278
+      ],
+      [
+        -17.8049527,
+        -50.9055279
+      ],
+      [
+        -17.8049508,
+        -50.9055663
+      ]
+    ],
+    "entrances": [
+      {
+        "lat": -17.8049856,
+        "lon": -50.9055657,
+        "type": "main",
+        "wheelchair": "yes"
+      }
+    ],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Laboratório de Carnes e Derivados",
+    "lat": -17.805026,
+    "lon": -50.9054373,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8048956,
+        -50.9054685
+      ],
+      [
+        -17.8050263,
+        -50.9054672
+      ],
+      [
+        -17.805026,
+        -50.9054373
+      ],
+      [
+        -17.8050258,
+        -50.9054122
+      ],
+      [
+        -17.8048951,
+        -50.9054135
+      ],
+      [
+        -17.8048956,
+        -50.9054685
+      ]
+    ],
+    "entrances": [
+      {
+        "lat": -17.805026,
+        "lon": -50.9054373,
+        "type": "main",
+        "wheelchair": "yes"
+      }
+    ],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Laboratório de Cultura de Tecidos Vegetais",
+    "lat": -17.8044233,
+    "lon": -50.9061296,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8044286,
+        -50.906188
+      ],
+      [
+        -17.8048764,
+        -50.9061395
+      ],
+      [
+        -17.8048613,
+        -50.9060162
+      ],
+      [
+        -17.8048242,
+        -50.9060221
+      ],
+      [
+        -17.8048211,
+        -50.9060006
+      ],
+      [
+        -17.8047371,
+        -50.906014
+      ],
+      [
+        -17.8047406,
+        -50.9060386
+      ],
+      [
+        -17.8047057,
+        -50.9060441
+      ],
+      [
+        -17.8047039,
+        -50.9060312
+      ],
+      [
+        -17.8044154,
+        -50.9060816
+      ],
+      [
+        -17.8044233,
+        -50.9061296
+      ],
+      [
+        -17.8044286,
+        -50.906188
+      ]
+    ],
+    "entrances": [
+      {
+        "lat": -17.8044233,
+        "lon": -50.9061296,
+        "type": "yes",
+        "wheelchair": "yes"
+      }
+    ],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Laboratório de Ecofisiologia e Produtividade Vegetal",
+    "lat": -17.801931,
+    "lon": -50.9061178,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8018677,
+        -50.9061699
+      ],
+      [
+        -17.801931,
+        -50.9061178
+      ],
+      [
+        -17.8019691,
+        -50.9060864
+      ],
+      [
+        -17.801845,
+        -50.9059203
+      ],
+      [
+        -17.8017437,
+        -50.9060038
+      ],
+      [
+        -17.8018677,
+        -50.9061699
+      ]
+    ],
+    "entrances": [
+      {
+        "lat": -17.801931,
+        "lon": -50.9061178,
+        "type": "main",
+        "wheelchair": "yes"
+      }
+    ],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Laboratório de Hidráulica e Irrigação",
+    "lat": -17.8048918,
+    "lon": -50.9044978,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8048766,
+        -50.9044982
+      ],
+      [
+        -17.8048918,
+        -50.9044978
+      ],
+      [
+        -17.805085,
+        -50.9044927
+      ],
+      [
+        -17.8050817,
+        -50.9043555
+      ],
+      [
+        -17.8051109,
+        -50.9043547
+      ],
+      [
+        -17.8051097,
+        -50.9043044
+      ],
+      [
+        -17.8051079,
+        -50.9042307
+      ],
+      [
+        -17.8049131,
+        -50.9042359
+      ],
+      [
+        -17.8049137,
+        -50.9042597
+      ],
+      [
+        -17.8048709,
+        -50.9042608
+      ],
+      [
+        -17.8048766,
+        -50.9044982
+      ]
+    ],
+    "entrances": [
+      {
+        "lat": -17.8048918,
+        "lon": -50.9044978,
+        "type": "yes",
+        "wheelchair": "yes"
+      }
+    ],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Laboratório de Leites e Derivados",
+    "lat": -17.8048271,
+    "lon": -50.9055256,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8047825,
+        -50.9055258
+      ],
+      [
+        -17.8047818,
+        -50.9053603
+      ],
+      [
+        -17.8048896,
+        -50.9053597
+      ],
+      [
+        -17.8048903,
+        -50.9055253
+      ],
+      [
+        -17.8048271,
+        -50.9055256
+      ],
+      [
+        -17.8047825,
+        -50.9055258
+      ]
+    ],
+    "entrances": [
+      {
+        "lat": -17.8048271,
+        "lon": -50.9055256,
+        "type": "main",
+        "wheelchair": "yes"
+      }
+    ],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Laboratório de Microbiologia Agrícola",
+    "lat": -17.8071493,
+    "lon": -50.9051218,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8071646,
+        -50.9052225
+      ],
+      [
+        -17.8071794,
+        -50.9052215
+      ],
+      [
+        -17.8071932,
+        -50.9053146
+      ],
+      [
+        -17.8073543,
+        -50.9052884
+      ],
+      [
+        -17.8073194,
+        -50.9050517
+      ],
+      [
+        -17.8071435,
+        -50.9050833
+      ],
+      [
+        -17.8071493,
+        -50.9051218
+      ],
+      [
+        -17.8071646,
+        -50.9052225
+      ]
+    ],
+    "entrances": [
+      {
+        "lat": -17.8071493,
+        "lon": -50.9051218,
+        "type": "yes",
+        "wheelchair": "yes"
+      }
+    ],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Laboratório de Microbiologia de Alimentos",
+    "lat": -17.8046705,
+    "lon": -50.9054845,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8046636,
+        -50.9054847
+      ],
+      [
+        -17.8046629,
+        -50.9053624
+      ],
+      [
+        -17.8047745,
+        -50.9053576
+      ],
+      [
+        -17.8047765,
+        -50.9054827
+      ],
+      [
+        -17.8046766,
+        -50.9054844
+      ],
+      [
+        -17.8046705,
+        -50.9054845
+      ],
+      [
+        -17.8046636,
+        -50.9054847
+      ]
+    ],
+    "entrances": [
+      {
+        "lat": -17.8046705,
+        "lon": -50.9054845,
+        "type": "main",
+        "wheelchair": "yes"
+      }
+    ],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Laboratório de Microbologia Aplicada",
+    "lat": -17.804348,
+    "lon": -50.9057173,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8043973,
+        -50.906008
+      ],
+      [
+        -17.8045111,
+        -50.9059932
+      ],
+      [
+        -17.8044675,
+        -50.9057385
+      ],
+      [
+        -17.8044496,
+        -50.905634
+      ],
+      [
+        -17.8043385,
+        -50.9056611
+      ],
+      [
+        -17.804348,
+        -50.9057173
+      ],
+      [
+        -17.8043816,
+        -50.9059154
+      ],
+      [
+        -17.8043973,
+        -50.906008
+      ]
+    ],
+    "entrances": [
+      {
+        "lat": -17.804348,
+        "lon": -50.9057173,
+        "type": "yes",
+        "wheelchair": "yes"
+      },
+      {
+        "lat": -17.8043816,
+        "lon": -50.9059154,
+        "type": "yes",
+        "wheelchair": "yes"
+      }
+    ],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Laboratório de Nutrição Animal",
+    "lat": -17.8047468,
+    "lon": -50.9067299,
+    "type": "way",
+    "polygon": [
+      [
+        -17.804721,
+        -50.9069017
+      ],
+      [
+        -17.8048191,
+        -50.9068851
+      ],
+      [
+        -17.804794,
+        -50.9067219
+      ],
+      [
+        -17.8047468,
+        -50.9067299
+      ],
+      [
+        -17.8046959,
+        -50.9067386
+      ],
+      [
+        -17.804721,
+        -50.9069017
+      ]
+    ],
+    "entrances": [
+      {
+        "lat": -17.8047468,
+        "lon": -50.9067299,
+        "type": "yes",
+        "wheelchair": "yes"
+      }
+    ],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Laboratório de Pós-Colheita e Produtos Vegetais",
+    "lat": -17.8053213,
+    "lon": -50.9050574,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8053148,
+        -50.9050573
+      ],
+      [
+        -17.8053213,
+        -50.9050574
+      ],
+      [
+        -17.8054164,
+        -50.9050596
+      ],
+      [
+        -17.805413,
+        -50.9048533
+      ],
+      [
+        -17.805317,
+        -50.9048567
+      ],
+      [
+        -17.8053148,
+        -50.9050573
+      ]
+    ],
+    "entrances": [
+      {
+        "lat": -17.8053213,
+        "lon": -50.9050574,
+        "type": "yes",
+        "wheelchair": "yes"
+      }
+    ],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Laboratório de Química Geral e Inorgânica",
+    "lat": -17.804573,
+    "lon": -50.9054841,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8045352,
+        -50.9054845
+      ],
+      [
+        -17.804573,
+        -50.9054841
+      ],
+      [
+        -17.804662,
+        -50.9054831
+      ],
+      [
+        -17.8046607,
+        -50.905355
+      ],
+      [
+        -17.8045338,
+        -50.9053564
+      ],
+      [
+        -17.8045352,
+        -50.9054845
+      ]
+    ],
+    "entrances": [
+      {
+        "lat": -17.804573,
+        "lon": -50.9054841,
+        "type": "main",
+        "wheelchair": "yes"
+      }
+    ],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Laboratório de Química Orgânica",
+    "lat": -17.8044204,
+    "lon": -50.9055785,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8043454,
+        -50.9056082
+      ],
+      [
+        -17.8044219,
+        -50.9055918
+      ],
+      [
+        -17.8044204,
+        -50.9055785
+      ],
+      [
+        -17.8044193,
+        -50.9055687
+      ],
+      [
+        -17.8044996,
+        -50.905556
+      ],
+      [
+        -17.8044913,
+        -50.9054998
+      ],
+      [
+        -17.8044787,
+        -50.9054143
+      ],
+      [
+        -17.8043159,
+        -50.9054456
+      ],
+      [
+        -17.8043454,
+        -50.9056082
+      ]
+    ],
+    "entrances": [
+      {
+        "lat": -17.8044204,
+        "lon": -50.9055785,
+        "type": "yes",
+        "wheelchair": "yes"
+      },
+      {
+        "lat": -17.8044913,
+        "lon": -50.9054998,
+        "type": "yes",
+        "wheelchair": "yes"
+      }
+    ],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Laboratório de Sementes",
+    "lat": -17.8029771,
+    "lon": -50.9069021,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8031353,
+        -50.9069866
+      ],
+      [
+        -17.8031175,
+        -50.9068769
+      ],
+      [
+        -17.8029771,
+        -50.9069021
+      ],
+      [
+        -17.8028719,
+        -50.9069209
+      ],
+      [
+        -17.802846,
+        -50.9069552
+      ],
+      [
+        -17.8028585,
+        -50.9070325
+      ],
+      [
+        -17.802934,
+        -50.907019
+      ],
+      [
+        -17.8029301,
+        -50.9069946
+      ],
+      [
+        -17.8030003,
+        -50.9069821
+      ],
+      [
+        -17.8030049,
+        -50.90701
+      ],
+      [
+        -17.8030416,
+        -50.9070034
+      ],
+      [
+        -17.803065,
+        -50.907148
+      ],
+      [
+        -17.803094,
+        -50.9071428
+      ],
+      [
+        -17.8030705,
+        -50.9069982
+      ],
+      [
+        -17.8031353,
+        -50.9069866
+      ]
+    ],
+    "entrances": [
+      {
+        "lat": -17.8029771,
+        "lon": -50.9069021,
+        "type": "yes",
+        "wheelchair": "yes"
+      }
+    ],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Laboratório de Sistemática e Ecologia Vegetal-Herbário",
+    "lat": -17.8048697,
+    "lon": -50.90678003333333,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8048209,
+        -50.9067462
+      ],
+      [
+        -17.8048408,
+        -50.9068701
+      ],
+      [
+        -17.804949,
+        -50.9068509
+      ],
+      [
+        -17.8049292,
+        -50.9067271
+      ],
+      [
+        -17.8048574,
+        -50.9067397
+      ],
+      [
+        -17.8048209,
+        -50.9067462
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Lubrimas",
+    "lat": -17.7862682,
+    "lon": -50.9156962,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Madeireira Tobias",
+    "lat": -17.79101012,
+    "lon": -50.90942736,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7908882,
+        -50.9097608
+      ],
+      [
+        -17.7906838,
+        -50.9092359
+      ],
+      [
+        -17.7911628,
+        -50.9088996
+      ],
+      [
+        -17.7914276,
+        -50.9094797
+      ],
+      [
+        -17.7908882,
+        -50.9097608
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Mitsubishi",
+    "lat": -17.785912442857143,
+    "lon": -50.905233685714286,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7858746,
+        -50.9050398
+      ],
+      [
+        -17.785846,
+        -50.905143
+      ],
+      [
+        -17.785802,
+        -50.9053618
+      ],
+      [
+        -17.7857932,
+        -50.9054542
+      ],
+      [
+        -17.7860661,
+        -50.9055066
+      ],
+      [
+        -17.7861306,
+        -50.9050906
+      ],
+      [
+        -17.7858746,
+        -50.9050398
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Monumento ao Desenvolvimento de Rio Verde",
+    "lat": -17.7922868,
+    "lon": -50.9194238,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Módulo Esportivo de Rio Verde",
+    "lat": -17.793181999999998,
+    "lon": -50.91517318,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7929157,
+        -50.9158619
+      ],
+      [
+        -17.7924008,
+        -50.9147886
+      ],
+      [
+        -17.7935737,
+        -50.9141706
+      ],
+      [
+        -17.7941041,
+        -50.9151829
+      ],
+      [
+        -17.7929157,
+        -50.9158619
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Nanola Temperos e Condimentos",
+    "lat": -17.7901901,
+    "lon": -50.9213965,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Nanolas Grill",
+    "lat": -17.7901702,
+    "lon": -50.921348,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Nelore Grill",
+    "lat": -17.8000071,
+    "lon": -50.9217717,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Neves",
+    "lat": -17.7857082,
+    "lon": -50.9116104,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Núcleo de Atenção à Saúde (NAS)",
+    "lat": -17.80278956,
+    "lon": -50.90446944,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8027515,
+        -50.9045286
+      ],
+      [
+        -17.8027265,
+        -50.9044081
+      ],
+      [
+        -17.8028467,
+        -50.9043807
+      ],
+      [
+        -17.8028716,
+        -50.9045012
+      ],
+      [
+        -17.8027515,
+        -50.9045286
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Paineiras Gastrobar",
+    "lat": -17.7912937,
+    "lon": -50.9130309,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Polo de Inovação Embrapii",
+    "lat": -17.8016752,
+    "lon": -50.9063456,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8018017,
+        -50.9063215
+      ],
+      [
+        -17.8017516,
+        -50.906362
+      ],
+      [
+        -17.8017156,
+        -50.9063129
+      ],
+      [
+        -17.8016752,
+        -50.9063456
+      ],
+      [
+        -17.8016389,
+        -50.9063749
+      ],
+      [
+        -17.8015439,
+        -50.9062453
+      ],
+      [
+        -17.8016344,
+        -50.9061721
+      ],
+      [
+        -17.8016711,
+        -50.9062222
+      ],
+      [
+        -17.8017075,
+        -50.9061929
+      ],
+      [
+        -17.8018017,
+        -50.9063215
+      ]
+    ],
+    "entrances": [
+      {
+        "lat": -17.8016752,
+        "lon": -50.9063456,
+        "type": "main",
+        "wheelchair": "yes"
+      }
+    ],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Ponto da Pesca",
+    "lat": -17.7902191,
+    "lon": -50.9214896,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Portaria IF Goiano",
+    "lat": -17.80339748,
+    "lon": -50.907031419999996,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8033802,
+        -50.9070735
+      ],
+      [
+        -17.8034427,
+        -50.9070588
+      ],
+      [
+        -17.8034234,
+        -50.9069683
+      ],
+      [
+        -17.8033609,
+        -50.906983
+      ],
+      [
+        -17.8033802,
+        -50.9070735
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Portaria Sul Goiâna",
+    "lat": -17.803153,
+    "lon": -50.9049986,
+    "type": "way",
+    "polygon": [
+      [
+        -17.803153,
+        -50.9049986
+      ],
+      [
+        -17.8031336,
+        -50.9049835
+      ],
+      [
+        -17.8031336,
+        -50.9049599
+      ],
+      [
+        -17.8032194,
+        -50.9048811
+      ],
+      [
+        -17.8032398,
+        -50.904916
+      ],
+      [
+        -17.803153,
+        -50.9049986
+      ]
+    ],
+    "entrances": [
+      {
+        "lat": -17.803153,
+        "lon": -50.9049986,
+        "type": "yes",
+        "wheelchair": "yes"
+      },
+      {
+        "lat": -17.803153,
+        "lon": -50.9049986,
+        "type": "yes",
+        "wheelchair": "yes"
+      }
+    ],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Posto Economia",
+    "lat": -17.78213334,
+    "lon": -50.9053383,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7821165,
+        -50.9052279
+      ],
+      [
+        -17.7822429,
+        -50.9052721
+      ],
+      [
+        -17.7821552,
+        -50.9055057
+      ],
+      [
+        -17.7820356,
+        -50.9054579
+      ],
+      [
+        -17.7821165,
+        -50.9052279
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Posto Trevo",
+    "lat": -17.78672092,
+    "lon": -50.904083639999996,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7865365,
+        -50.9042032
+      ],
+      [
+        -17.7865955,
+        -50.9038214
+      ],
+      [
+        -17.786848,
+        -50.9038704
+      ],
+      [
+        -17.7870881,
+        -50.90432
+      ],
+      [
+        -17.7865365,
+        -50.9042032
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Posto WK (Antigo Zero Um)",
+    "lat": -17.7907161,
+    "lon": -50.8935104,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Posto de Saúde do Gameleira",
+    "lat": -17.80529584,
+    "lon": -50.91055838,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8051867,
+        -50.9105436
+      ],
+      [
+        -17.8053393,
+        -50.9107038
+      ],
+      [
+        -17.8054507,
+        -50.9105744
+      ],
+      [
+        -17.8053158,
+        -50.9104265
+      ],
+      [
+        -17.8051867,
+        -50.9105436
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Praça Cidades-Irmãs",
+    "lat": -17.79169866666667,
+    "lon": -50.91836541111111,
+    "type": "way",
+    "polygon": [
+      [
+        -17.790408,
+        -50.9174039
+      ],
+      [
+        -17.7914796,
+        -50.9168377
+      ],
+      [
+        -17.7925007,
+        -50.9188302
+      ],
+      [
+        -17.7922176,
+        -50.9189364
+      ],
+      [
+        -17.7921603,
+        -50.9189293
+      ],
+      [
+        -17.7921031,
+        -50.9189329
+      ],
+      [
+        -17.7920323,
+        -50.9189683
+      ],
+      [
+        -17.7919784,
+        -50.9190461
+      ],
+      [
+        -17.790408,
+        -50.9174039
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Praça José Guerra",
+    "lat": -17.78463753125,
+    "lon": -50.9212585,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7849985,
+        -50.9211441
+      ],
+      [
+        -17.7848702,
+        -50.9211303
+      ],
+      [
+        -17.7847335,
+        -50.9211233
+      ],
+      [
+        -17.7846299,
+        -50.9211372
+      ],
+      [
+        -17.7845715,
+        -50.9211582
+      ],
+      [
+        -17.7845304,
+        -50.921193
+      ],
+      [
+        -17.7844799,
+        -50.921232
+      ],
+      [
+        -17.7844116,
+        -50.921304
+      ],
+      [
+        -17.7843361,
+        -50.9213981
+      ],
+      [
+        -17.7843366,
+        -50.9214356
+      ],
+      [
+        -17.7844242,
+        -50.9214398
+      ],
+      [
+        -17.7845384,
+        -50.9214077
+      ],
+      [
+        -17.7846671,
+        -50.9213673
+      ],
+      [
+        -17.7847853,
+        -50.9212962
+      ],
+      [
+        -17.7848888,
+        -50.9212251
+      ],
+      [
+        -17.7849985,
+        -50.9211441
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Praça João Altino Arantes",
+    "lat": -17.791508393333334,
+    "lon": -50.91509844666667,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7912986,
+        -50.9155011
+      ],
+      [
+        -17.7911376,
+        -50.9153553
+      ],
+      [
+        -17.7910654,
+        -50.9151163
+      ],
+      [
+        -17.7911098,
+        -50.9149181
+      ],
+      [
+        -17.7911876,
+        -50.9147724
+      ],
+      [
+        -17.7913319,
+        -50.9146674
+      ],
+      [
+        -17.7915373,
+        -50.9146208
+      ],
+      [
+        -17.7917315,
+        -50.9146733
+      ],
+      [
+        -17.7918703,
+        -50.9147899
+      ],
+      [
+        -17.791948,
+        -50.9149473
+      ],
+      [
+        -17.7919591,
+        -50.9151746
+      ],
+      [
+        -17.791887,
+        -50.9153728
+      ],
+      [
+        -17.7917426,
+        -50.9155069
+      ],
+      [
+        -17.7915206,
+        -50.9155594
+      ],
+      [
+        -17.7912986,
+        -50.9155011
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Praça Orcalino Ferreira Guimarães",
+    "lat": -17.78820227142857,
+    "lon": -50.920750028571426,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7880765,
+        -50.9211761
+      ],
+      [
+        -17.7879647,
+        -50.9209427
+      ],
+      [
+        -17.7881017,
+        -50.9202822
+      ],
+      [
+        -17.7882372,
+        -50.9202132
+      ],
+      [
+        -17.7883922,
+        -50.9205422
+      ],
+      [
+        -17.7885671,
+        -50.9209177
+      ],
+      [
+        -17.7880765,
+        -50.9211761
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Praça Vila Renovação",
+    "lat": -17.798518285714287,
+    "lon": -50.91532827142857,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7988771,
+        -50.9155867
+      ],
+      [
+        -17.7987189,
+        -50.9157394
+      ],
+      [
+        -17.798246,
+        -50.9151873
+      ],
+      [
+        -17.7983035,
+        -50.915137
+      ],
+      [
+        -17.798254,
+        -50.9150782
+      ],
+      [
+        -17.7983514,
+        -50.9149826
+      ],
+      [
+        -17.7988771,
+        -50.9155867
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Praça da Gameleira",
+    "lat": -17.814945675,
+    "lon": -50.908950125000004,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8149524,
+        -50.9093666
+      ],
+      [
+        -17.8157505,
+        -50.9086026
+      ],
+      [
+        -17.8141274,
+        -50.9084647
+      ],
+      [
+        -17.8149524,
+        -50.9093666
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Praça da Vila Mutirão",
+    "lat": -17.79793238,
+    "lon": -50.91154846,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7980103,
+        -50.911962
+      ],
+      [
+        -17.797506,
+        -50.9114076
+      ],
+      [
+        -17.7979442,
+        -50.9110423
+      ],
+      [
+        -17.7981911,
+        -50.9113684
+      ],
+      [
+        -17.7980103,
+        -50.911962
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Praça do Santuário",
+    "lat": -17.78633071333333,
+    "lon": -50.916521413333335,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7865643,
+        -50.9166982
+      ],
+      [
+        -17.7863157,
+        -50.916178
+      ],
+      [
+        -17.7862444,
+        -50.9162387
+      ],
+      [
+        -17.786229,
+        -50.9162772
+      ],
+      [
+        -17.7862039,
+        -50.9163399
+      ],
+      [
+        -17.7861981,
+        -50.9164088
+      ],
+      [
+        -17.7861981,
+        -50.9164715
+      ],
+      [
+        -17.7862193,
+        -50.9165363
+      ],
+      [
+        -17.7862482,
+        -50.9165909
+      ],
+      [
+        -17.7862733,
+        -50.9166253
+      ],
+      [
+        -17.7863292,
+        -50.9166617
+      ],
+      [
+        -17.7863985,
+        -50.9166921
+      ],
+      [
+        -17.7864583,
+        -50.9167002
+      ],
+      [
+        -17.7865161,
+        -50.9167042
+      ],
+      [
+        -17.7865643,
+        -50.9166982
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Praça do Santuário",
+    "lat": -17.7866587125,
+    "lon": -50.916322737499996,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7866626,
+        -50.9166233
+      ],
+      [
+        -17.7864255,
+        -50.9161214
+      ],
+      [
+        -17.7864679,
+        -50.9160991
+      ],
+      [
+        -17.786518,
+        -50.9160991
+      ],
+      [
+        -17.786572,
+        -50.9161112
+      ],
+      [
+        -17.7866259,
+        -50.9161315
+      ],
+      [
+        -17.7866645,
+        -50.9161679
+      ],
+      [
+        -17.786705,
+        -50.9162185
+      ],
+      [
+        -17.78673,
+        -50.9162651
+      ],
+      [
+        -17.7867512,
+        -50.9163237
+      ],
+      [
+        -17.7867628,
+        -50.9163743
+      ],
+      [
+        -17.7867666,
+        -50.9164189
+      ],
+      [
+        -17.786757,
+        -50.9164715
+      ],
+      [
+        -17.7867474,
+        -50.9165302
+      ],
+      [
+        -17.7867204,
+        -50.9165848
+      ],
+      [
+        -17.7866626,
+        -50.9166233
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Prefeitura Municipal de Rio Verde",
+    "lat": -17.78530808888889,
+    "lon": -50.908096855555556,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7852935,
+        -50.9084384
+      ],
+      [
+        -17.7853322,
+        -50.9081752
+      ],
+      [
+        -17.7854217,
+        -50.9079825
+      ],
+      [
+        -17.7854676,
+        -50.9077007
+      ],
+      [
+        -17.7853292,
+        -50.9076759
+      ],
+      [
+        -17.7852831,
+        -50.9079597
+      ],
+      [
+        -17.7852002,
+        -50.9080854
+      ],
+      [
+        -17.7851518,
+        -50.9084155
+      ],
+      [
+        -17.7852935,
+        -50.9084384
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Prefeitura de Rio Verde",
+    "lat": -17.8180034,
+    "lon": -50.90868673999999,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8181457,
+        -50.9099315
+      ],
+      [
+        -17.8164921,
+        -50.9081446
+      ],
+      [
+        -17.81779,
+        -50.9068196
+      ],
+      [
+        -17.8194435,
+        -50.9086065
+      ],
+      [
+        -17.8181457,
+        -50.9099315
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Programa de Pós-Graduação em Ciências Agrárias",
+    "lat": -17.801183899999998,
+    "lon": -50.90705034444444,
+    "type": "way",
+    "polygon": [
+      [
+        -17.801246,
+        -50.9071592
+      ],
+      [
+        -17.8011856,
+        -50.9071517
+      ],
+      [
+        -17.8011899,
+        -50.9071126
+      ],
+      [
+        -17.8010638,
+        -50.907097
+      ],
+      [
+        -17.8010848,
+        -50.9069095
+      ],
+      [
+        -17.8011887,
+        -50.9069223
+      ],
+      [
+        -17.8011838,
+        -50.9069657
+      ],
+      [
+        -17.8012665,
+        -50.9069759
+      ],
+      [
+        -17.801246,
+        -50.9071592
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": "PPGCA-AGRO",
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Ravel",
+    "lat": -17.8029886,
+    "lon": -50.921539787499995,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8032667,
+        -50.9215081
+      ],
+      [
+        -17.8030174,
+        -50.9218786
+      ],
+      [
+        -17.8027607,
+        -50.9217098
+      ],
+      [
+        -17.8028294,
+        -50.9216062
+      ],
+      [
+        -17.8029424,
+        -50.9214358
+      ],
+      [
+        -17.8028787,
+        -50.9213896
+      ],
+      [
+        -17.8029468,
+        -50.9212821
+      ],
+      [
+        -17.8032667,
+        -50.9215081
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Refeitório e Cantina",
+    "lat": -17.8034149,
+    "lon": -50.9049087,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8034343,
+        -50.9050411
+      ],
+      [
+        -17.8036685,
+        -50.9049898
+      ],
+      [
+        -17.8036146,
+        -50.9046341
+      ],
+      [
+        -17.8033837,
+        -50.9046943
+      ],
+      [
+        -17.8034145,
+        -50.9049059
+      ],
+      [
+        -17.8034149,
+        -50.9049087
+      ],
+      [
+        -17.8034156,
+        -50.9049133
+      ],
+      [
+        -17.8034167,
+        -50.9049208
+      ],
+      [
+        -17.8034194,
+        -50.9049393
+      ],
+      [
+        -17.8034343,
+        -50.9050411
+      ]
+    ],
+    "entrances": [
+      {
+        "lat": -17.8034149,
+        "lon": -50.9049087,
+        "type": "yes",
+        "wheelchair": "yes"
+      },
+      {
+        "lat": -17.8034167,
+        "lon": -50.9049208,
+        "type": "yes"
+      }
+    ],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Residencial Atalaia",
+    "lat": -17.8207728,
+    "lon": -50.9235348,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Residencial Gameleira",
+    "lat": -17.8066034,
+    "lon": -50.9096487,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Residencial Gameleira II",
+    "lat": -17.8151061,
+    "lon": -50.9127586,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Residencial Vereda",
+    "lat": -17.779826850000003,
+    "lon": -50.92324048333333,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7796881,
+        -50.9234675
+      ],
+      [
+        -17.7800351,
+        -50.9233961
+      ],
+      [
+        -17.7799912,
+        -50.9231536
+      ],
+      [
+        -17.7799528,
+        -50.9229415
+      ],
+      [
+        -17.7796058,
+        -50.9230167
+      ],
+      [
+        -17.7796881,
+        -50.9234675
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Restaurante Onda do Peixe",
+    "lat": -17.8021552,
+    "lon": -50.922744,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Restaurante Popular",
+    "lat": -17.7859429,
+    "lon": -50.9132848,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Rio Verde",
+    "lat": -17.7921255,
+    "lon": -50.9191219,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Rio Verde Arena",
+    "lat": -17.78768508,
+    "lon": -50.88968962,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7874684,
+        -50.8905109
+      ],
+      [
+        -17.7863541,
+        -50.8884512
+      ],
+      [
+        -17.7886873,
+        -50.8884625
+      ],
+      [
+        -17.7884472,
+        -50.8905126
+      ],
+      [
+        -17.7874684,
+        -50.8905109
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Rua do Angico",
+    "lat": -17.803438200000002,
+    "lon": -50.9082447,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8033998,
+        -50.9082823
+      ],
+      [
+        -17.8034766,
+        -50.9082071
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Rua do Angico",
+    "lat": -17.803956550000002,
+    "lon": -50.90769645,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8034766,
+        -50.9082071
+      ],
+      [
+        -17.8044365,
+        -50.9071858
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Rua do Angico",
+    "lat": -17.80294895,
+    "lon": -50.90870995,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8024981,
+        -50.9091376
+      ],
+      [
+        -17.8033998,
+        -50.9082823
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Rua do Jequitibá",
+    "lat": -17.801595842857143,
+    "lon": -50.909071528571424,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7999205,
+        -50.9107395
+      ],
+      [
+        -17.8003665,
+        -50.9102889
+      ],
+      [
+        -17.8012615,
+        -50.9094169
+      ],
+      [
+        -17.8016459,
+        -50.9089964
+      ],
+      [
+        -17.8020196,
+        -50.9086189
+      ],
+      [
+        -17.8029212,
+        -50.9077623
+      ],
+      [
+        -17.8030357,
+        -50.9076778
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Rua do Pequi",
+    "lat": -17.806007572727275,
+    "lon": -50.90692365454545,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8033015,
+        -50.9073741
+      ],
+      [
+        -17.8035169,
+        -50.9073356
+      ],
+      [
+        -17.803929,
+        -50.9072689
+      ],
+      [
+        -17.8044365,
+        -50.9071858
+      ],
+      [
+        -17.804901,
+        -50.907128
+      ],
+      [
+        -17.8056269,
+        -50.9070061
+      ],
+      [
+        -17.8068225,
+        -50.9067909
+      ],
+      [
+        -17.8070387,
+        -50.906738
+      ],
+      [
+        -17.8077057,
+        -50.9066383
+      ],
+      [
+        -17.8090926,
+        -50.9064028
+      ],
+      [
+        -17.809712,
+        -50.9062917
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Rua do Pequi",
+    "lat": -17.80314406,
+    "lon": -50.907519539999996,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8030226,
+        -50.9075992
+      ],
+      [
+        -17.8030965,
+        -50.9075674
+      ],
+      [
+        -17.8031342,
+        -50.9075419
+      ],
+      [
+        -17.8031655,
+        -50.9075151
+      ],
+      [
+        -17.8033015,
+        -50.9073741
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Rua do Pequi",
+    "lat": -17.801073136363637,
+    "lon": -50.90885630909091,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8028749,
+        -50.9073775
+      ],
+      [
+        -17.8026503,
+        -50.9074228
+      ],
+      [
+        -17.8023763,
+        -50.9074733
+      ],
+      [
+        -17.8022844,
+        -50.9075384
+      ],
+      [
+        -17.8021616,
+        -50.9076522
+      ],
+      [
+        -17.8012782,
+        -50.9085911
+      ],
+      [
+        -17.8000981,
+        -50.9099267
+      ],
+      [
+        -17.8000633,
+        -50.9099653
+      ],
+      [
+        -17.7997217,
+        -50.9103056
+      ],
+      [
+        -17.7996916,
+        -50.9103197
+      ],
+      [
+        -17.7986041,
+        -50.9108468
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Rua do Pequi",
+    "lat": -17.80100038181818,
+    "lon": -50.90904367272728,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7986792,
+        -50.9110075
+      ],
+      [
+        -17.7987321,
+        -50.910965
+      ],
+      [
+        -17.7996415,
+        -50.91048
+      ],
+      [
+        -17.7997468,
+        -50.9104215
+      ],
+      [
+        -17.800136,
+        -50.9100377
+      ],
+      [
+        -17.8013773,
+        -50.9086947
+      ],
+      [
+        -17.8022463,
+        -50.9077197
+      ],
+      [
+        -17.8024019,
+        -50.9075861
+      ],
+      [
+        -17.8025417,
+        -50.9075365
+      ],
+      [
+        -17.802695,
+        -50.9075057
+      ],
+      [
+        -17.8028064,
+        -50.907526
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Rua do Pequi",
+    "lat": -17.8031427,
+    "lon": -50.90737086666667,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8033015,
+        -50.9073741
+      ],
+      [
+        -17.803159,
+        -50.9073712
+      ],
+      [
+        -17.8029676,
+        -50.9073673
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "SER Unimed",
+    "lat": -17.8019934,
+    "lon": -50.9230193,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Sala de Professores",
+    "lat": -17.803609,
+    "lon": -50.9064495,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8035284,
+        -50.9066088
+      ],
+      [
+        -17.8035042,
+        -50.9064696
+      ],
+      [
+        -17.803609,
+        -50.9064495
+      ],
+      [
+        -17.8038124,
+        -50.9064104
+      ],
+      [
+        -17.8038366,
+        -50.9065496
+      ],
+      [
+        -17.8035284,
+        -50.9066088
+      ]
+    ],
+    "entrances": [
+      {
+        "lat": -17.803609,
+        "lon": -50.9064495,
+        "type": "main",
+        "wheelchair": "yes"
+      }
+    ],
+    "rooms": [
+      {
+        "id": "13986297159",
+        "name": "Agenda Ambiental na Administração Pública",
+        "lat": -17.8037692,
+        "lon": -50.9065007,
+        "tag": "office",
+        "short_name": "A3P",
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986297160",
+        "name": "Escritório",
+        "lat": -17.8037431,
+        "lon": -50.906478,
+        "tag": "office",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986297162",
+        "name": "Escritório",
+        "lat": -17.8037473,
+        "lon": -50.9065033,
+        "tag": "office",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986297164",
+        "name": "Escritório",
+        "lat": -17.8036947,
+        "lon": -50.9064866,
+        "tag": "office",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986297165",
+        "name": "Escritório",
+        "lat": -17.8036818,
+        "lon": -50.9064892,
+        "tag": "office",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986297168",
+        "name": "Escritório",
+        "lat": -17.803633,
+        "lon": -50.9065225,
+        "tag": "office",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986297169",
+        "name": "Sala",
+        "lat": -17.8035482,
+        "lon": -50.9065377,
+        "tag": null,
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986297170",
+        "name": "Sala",
+        "lat": -17.8035446,
+        "lon": -50.9065176,
+        "tag": null,
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986297157",
+        "name": "Sala 01",
+        "lat": -17.8038018,
+        "lon": -50.9064945,
+        "tag": "office",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986297158",
+        "name": "Sala 02",
+        "lat": -17.8037824,
+        "lon": -50.9064725,
+        "tag": "office",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986297161",
+        "name": "Sala 06",
+        "lat": -17.8037325,
+        "lon": -50.9064807,
+        "tag": "office",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986297163",
+        "name": "Sala 07",
+        "lat": -17.8037364,
+        "lon": -50.9065065,
+        "tag": "office",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986297166",
+        "name": "Sala 09",
+        "lat": -17.8036995,
+        "lon": -50.9065129,
+        "tag": "office",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      },
+      {
+        "id": "13986297167",
+        "name": "Sala 11",
+        "lat": -17.8036862,
+        "lon": -50.9065152,
+        "tag": "office",
+        "short_name": null,
+        "alt_name": null,
+        "description": null
+      }
+    ],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Sala de Professores",
+    "lat": -17.804709,
+    "lon": -50.9056903,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8047031,
+        -50.9057177
+      ],
+      [
+        -17.8045785,
+        -50.9057254
+      ],
+      [
+        -17.8045745,
+        -50.9056551
+      ],
+      [
+        -17.8047186,
+        -50.9056461
+      ],
+      [
+        -17.804709,
+        -50.9056903
+      ],
+      [
+        -17.8047031,
+        -50.9057177
+      ]
+    ],
+    "entrances": [
+      {
+        "lat": -17.804709,
+        "lon": -50.9056903,
+        "type": "yes",
+        "wheelchair": "yes"
+      }
+    ],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Secretaria Municipal da Fazenda - SEFAZ",
+    "lat": -17.78545304,
+    "lon": -50.90869268,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7855631,
+        -50.9085963
+      ],
+      [
+        -17.7853324,
+        -50.9085489
+      ],
+      [
+        -17.7852868,
+        -50.9088381
+      ],
+      [
+        -17.7855198,
+        -50.9088838
+      ],
+      [
+        -17.7855631,
+        -50.9085963
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Secretaria de Habitação e Regularização Fundiária - SEHAB",
+    "lat": -17.7853553,
+    "lon": -50.90900274,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7852558,
+        -50.9090232
+      ],
+      [
+        -17.785271,
+        -50.9089281
+      ],
+      [
+        -17.7855071,
+        -50.9089749
+      ],
+      [
+        -17.7854868,
+        -50.9090643
+      ],
+      [
+        -17.7852558,
+        -50.9090232
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Secretaria de Infraestrutura Urbana - SEINFRA",
+    "lat": -17.78542092,
+    "lon": -50.90890092,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7855205,
+        -50.9088824
+      ],
+      [
+        -17.7855071,
+        -50.9089749
+      ],
+      [
+        -17.785271,
+        -50.9089281
+      ],
+      [
+        -17.7852855,
+        -50.9088368
+      ],
+      [
+        -17.7855205,
+        -50.9088824
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Shopping Rio Verde",
+    "lat": -17.7896616,
+    "lon": -50.9199802,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Shopping Rio Verde",
+    "lat": -17.789469970588236,
+    "lon": -50.91951548823529,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7896248,
+        -50.9202649
+      ],
+      [
+        -17.7895787,
+        -50.9201678
+      ],
+      [
+        -17.7895971,
+        -50.9201582
+      ],
+      [
+        -17.7895022,
+        -50.9199581
+      ],
+      [
+        -17.7894729,
+        -50.9199735
+      ],
+      [
+        -17.7892121,
+        -50.9194234
+      ],
+      [
+        -17.7892399,
+        -50.9193547
+      ],
+      [
+        -17.7891751,
+        -50.9193368
+      ],
+      [
+        -17.7892559,
+        -50.9193098
+      ],
+      [
+        -17.7892839,
+        -50.9191759
+      ],
+      [
+        -17.7891945,
+        -50.9190126
+      ],
+      [
+        -17.7892666,
+        -50.9189691
+      ],
+      [
+        -17.7893725,
+        -50.9189252
+      ],
+      [
+        -17.7894202,
+        -50.9188963
+      ],
+      [
+        -17.7898042,
+        -50.9186938
+      ],
+      [
+        -17.7903641,
+        -50.9198783
+      ],
+      [
+        -17.7896248,
+        -50.9202649
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Sicoob",
+    "lat": -17.7884357,
+    "lon": -50.9184996,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Sicoob",
+    "lat": -17.8132022,
+    "lon": -50.9110724,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Sindicato Rural de Rio Verde",
+    "lat": -17.77956216,
+    "lon": -50.91878084,
+    "type": "way",
+    "polygon": [
+      [
+        -17.779089,
+        -50.9201035
+      ],
+      [
+        -17.7812863,
+        -50.9190559
+      ],
+      [
+        -17.7802685,
+        -50.9167695
+      ],
+      [
+        -17.778078,
+        -50.9178718
+      ],
+      [
+        -17.779089,
+        -50.9201035
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Somafertil",
+    "lat": -17.7855099,
+    "lon": -50.9108691,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Stop Car",
+    "lat": -17.7833717,
+    "lon": -50.912193,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Subestação Cereal",
+    "lat": -17.78714388,
+    "lon": -50.895067080000004,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7871306,
+        -50.8954036
+      ],
+      [
+        -17.787546,
+        -50.8950258
+      ],
+      [
+        -17.7871638,
+        -50.8945623
+      ],
+      [
+        -17.7867484,
+        -50.8949401
+      ],
+      [
+        -17.7871306,
+        -50.8954036
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Subestação Rio Verde",
+    "lat": -17.7955489625,
+    "lon": -50.9112867125,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7952525,
+        -50.9105414
+      ],
+      [
+        -17.7956479,
+        -50.9110196
+      ],
+      [
+        -17.7957403,
+        -50.9109353
+      ],
+      [
+        -17.7963621,
+        -50.9116871
+      ],
+      [
+        -17.7960449,
+        -50.9119731
+      ],
+      [
+        -17.7955589,
+        -50.9123978
+      ],
+      [
+        -17.7945326,
+        -50.911198
+      ],
+      [
+        -17.7952525,
+        -50.9105414
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Superintendência de Desenvolvimento Urbano - SUDERV",
+    "lat": -17.785339380000003,
+    "lon": -50.90909268,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7852558,
+        -50.9090232
+      ],
+      [
+        -17.7854868,
+        -50.9090643
+      ],
+      [
+        -17.7854686,
+        -50.9091969
+      ],
+      [
+        -17.7852299,
+        -50.9091558
+      ],
+      [
+        -17.7852558,
+        -50.9090232
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "TV Anhanguera (Globo)",
+    "lat": -17.7900153,
+    "lon": -50.8893756,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Taurus Burguer",
+    "lat": -17.8026841,
+    "lon": -50.9233177,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Tec Agro",
+    "lat": -17.7910801,
+    "lon": -50.9119682,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Torneadora Pinguin",
+    "lat": -17.7870118,
+    "lon": -50.9059138,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Torneadora do Gaúcho",
+    "lat": -17.7872715,
+    "lon": -50.9060155,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Tradição Pizzaria",
+    "lat": -17.8023849,
+    "lon": -50.9228824,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Tropical Pneus",
+    "lat": -17.793803680000003,
+    "lon": -50.91186166,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7941672,
+        -50.9120883
+      ],
+      [
+        -17.7935617,
+        -50.9113439
+      ],
+      [
+        -17.7933496,
+        -50.911464
+      ],
+      [
+        -17.7937727,
+        -50.9123238
+      ],
+      [
+        -17.7941672,
+        -50.9120883
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Tuca Papel",
+    "lat": -17.7853923,
+    "lon": -50.912032,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "UPA Rio Verde",
+    "lat": -17.787112439999998,
+    "lon": -50.91848086,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7871188,
+        -50.9189207
+      ],
+      [
+        -17.7875179,
+        -50.9187044
+      ],
+      [
+        -17.7871061,
+        -50.9178261
+      ],
+      [
+        -17.7867006,
+        -50.9180324
+      ],
+      [
+        -17.7871188,
+        -50.9189207
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Umuarama Toyota",
+    "lat": -17.7948232,
+    "lon": -50.913758,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7944079,
+        -50.913645
+      ],
+      [
+        -17.7951104,
+        -50.9132714
+      ],
+      [
+        -17.7954395,
+        -50.9139205
+      ],
+      [
+        -17.7947503,
+        -50.9143081
+      ],
+      [
+        -17.7944079,
+        -50.913645
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Unidade de Produção de Bioinsumos",
+    "lat": -17.807233,
+    "lon": -50.9054264,
+    "type": "way",
+    "polygon": [
+      [
+        -17.8072398,
+        -50.9054802
+      ],
+      [
+        -17.807233,
+        -50.9054264
+      ],
+      [
+        -17.8072269,
+        -50.9053781
+      ],
+      [
+        -17.8073306,
+        -50.9053636
+      ],
+      [
+        -17.8073435,
+        -50.9054658
+      ],
+      [
+        -17.8072398,
+        -50.9054802
+      ]
+    ],
+    "entrances": [
+      {
+        "lat": -17.807233,
+        "lon": -50.9054264,
+        "type": "yes",
+        "wheelchair": "yes"
+      }
+    ],
+    "rooms": [],
+    "short_name": "CEBIO",
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "VALFOR",
+    "lat": -17.7871065,
+    "lon": -50.9059868,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Varandas",
+    "lat": -17.7901557,
+    "lon": -50.9211448,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Vertente Do Corrego Chapadinha",
+    "lat": -17.781024685714286,
+    "lon": -50.89975328571428,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7823129,
+        -50.9004154
+      ],
+      [
+        -17.7819801,
+        -50.9000871
+      ],
+      [
+        -17.781698,
+        -50.9000529
+      ],
+      [
+        -17.7812666,
+        -50.8997122
+      ],
+      [
+        -17.7805789,
+        -50.8994522
+      ],
+      [
+        -17.7802183,
+        -50.8993151
+      ],
+      [
+        -17.779118,
+        -50.8992381
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Vida Love Pet",
+    "lat": -17.8017289,
+    "lon": -50.9228222,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Vila Amalia",
+    "lat": -17.8015891,
+    "lon": -50.9170883,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Vila Carolina",
+    "lat": -17.806367,
+    "lon": -50.9247342,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Vila Mariana Prolongamento",
+    "lat": -17.8137863,
+    "lon": -50.9247794,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Vila Mutirão",
+    "lat": -17.7970943,
+    "lon": -50.9093636,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "Vila Renovação",
+    "lat": -17.7986879,
+    "lon": -50.9121316,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "WE Centro Automotivo",
+    "lat": -17.8139963,
+    "lon": -50.9102506,
+    "type": "node",
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  },
+  {
+    "name": "nelore grill",
+    "lat": -17.80003363333333,
+    "lon": -50.92173714999999,
+    "type": "way",
+    "polygon": [
+      [
+        -17.7999885,
+        -50.9219167
+      ],
+      [
+        -17.8003097,
+        -50.9217419
+      ],
+      [
+        -17.8001317,
+        -50.9214248
+      ],
+      [
+        -17.7998607,
+        -50.9216321
+      ],
+      [
+        -17.7999227,
+        -50.9217907
+      ],
+      [
+        -17.7999885,
+        -50.9219167
+      ]
+    ],
+    "entrances": [],
+    "rooms": [],
+    "short_name": null,
+    "alt_name": null,
+    "description": null
+  }
+]

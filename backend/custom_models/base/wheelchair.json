@@ -1,0 +1,8 @@
+{
+  "priority": [
+    { "if": "!wheelchair_access", "multiply_by": "0" }
+  ],
+  "speed": [
+    { "if": "true", "limit_to": "wheelchair_average_speed" }
+  ]
+}

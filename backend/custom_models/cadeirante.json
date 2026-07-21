@@ -1,0 +1,26 @@
+{
+  "priority": [
+    // Bloqueia caminhos com degraus ou escadas
+    { "if": "road_class == STEPS", "multiply_by": 0.0 },
+    // Bloqueia caminhos com areia, para marcar lugares que o cadeirante não entra.
+    { "if": "surface == SAND", "multiply_by": 0.0 },
+    // Penaliza fortemente (reduz a preferência em 80%) caminhos de terra ou grama
+    { "if": "surface == DIRT || surface == GRASS", "multiply_by": 0.7 },
+    // Penaliza caminhos com pavimentação esburacada ou muito ruim
+    { "if": "smoothness == BAD", "multiply_by": 0.3 },
+    // Penalização média para terra/grama com intermediate
+    { "if": "smoothness == INTERMEDIATE", "multiply_by": 0.6 },
+    // Penaliza vias por onde passam carros (ruas, vias de serviço, etc) para evitar dividir espaço
+    { "if": "car_access == true", "multiply_by": 0.4 },
+    // O track_type foi usado como adaptação para a tag wheelchair do mapa (ver apply_wheelchair_weights.dart).
+
+    // GRADE3 equivale a wheelchair=limited (acessibilidade limitada/parcial). Reduz a preferência pela metade.
+    { "if": "track_type == GRADE3", "multiply_by": 0.5 },
+
+    // GRADE4 equivale a wheelchair=bad (acessibilidade muito ruim). Penaliza fortemente.
+    { "if": "track_type == GRADE4", "multiply_by": 0.3 },
+    
+    // GRADE5 equivale a wheelchair=no (sem acessibilidade para cadeiras). Bloqueia a rota.
+    { "if": "track_type == GRADE5", "multiply_by": 0.0 }
+  ]
+}
